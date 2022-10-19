@@ -1,0 +1,398 @@
+SID	sLast	sFirst	ELA	S.S.	MATH	SCI	school	Aliamanu Recommendations are in waiting for MMS 1/19/2022
+4361401402	Abraham	Joseph-Kalani					21-22 Aliamanu Middle	
+2001400721	Alauni	Talitonu					21-22 Aliamanu Middle	
+1221400354	Barroga	Jaydalynn		Honors			21-22 Aliamanu Middle	
+2171400079	Burguillos	Angelica Joy	Honors	Honors	Algebra 2	Honors	21-22 Aliamanu Middle	
+2031400413	Chen	Ivan			Geom		21-22 Aliamanu Middle	
+2042201113	Crespo-Gieseking	Isaias	Honors		Geom		21-22 Aliamanu Middle	
+2031600990	Domingo	Dominic					21-22 Aliamanu Middle	
+3311200717	Faatea	Ginna					21-22 Aliamanu Middle	
+1251400525	Freirez	Job			Algebra 2		21-22 Aliamanu Middle	
+2031400257	Gervacio	Chelsea Nicole			Geom		21-22 Aliamanu Middle	
+1121400950	Gima	Javis			Geom		21-22 Aliamanu Middle	
+2042201080	Hardemon	Aja					21-22 Aliamanu Middle	
+2031400489	Horiuchi	Eulalia		Honors			21-22 Aliamanu Middle	
+2031400356	Huang	Kelton		Honors			21-22 Aliamanu Middle	
+2031400215	Kim	Evelyn		Honors			21-22 Aliamanu Middle	
+2042101130	Leal	Jaykob					21-22 Aliamanu Middle	
+3531401147	Lee	Heidi		Honors			21-22 Aliamanu Middle	
+2741400541	Leota	Parislyna					21-22 Aliamanu Middle	
+2151301939	Main	Jimmy		Honors			21-22 Aliamanu Middle	
+2031901044	Nilo	Victoria Lynn		Honors	Geom		21-22 Aliamanu Middle	
+2231501094	Richards	Hayley	Honors	Honors			21-22 Aliamanu Middle	
+2042100801	Schaefer	Avery			Algebra 2		21-22 Aliamanu Middle	
+1351300607	Simina	Bryson	Honors	Honors	Algebra 2	Honors	21-22 Aliamanu Middle	
+1231400717	Taumua	Princess Leilehua				Honors	21-22 Aliamanu Middle	
+2031401023	Taylor-Kibin	Nika					21-22 Aliamanu Middle	
+2031400314	Thai	Tony			Geom	Honors	21-22 Aliamanu Middle	
+2031400322	Tisalona	Peyton					21-22 Aliamanu Middle	
+2711400362	Williams	Truq					21-22 Aliamanu Middle	
+2222001121	Zhang	Yiwen				Honors	21-22 Aliamanu Middle	
+2031103733	Zheng	Jordan		Honors			21-22 Aliamanu Middle	
+1111300978	Grundy	James-Paul					21-22 Moanalua Middle	
+1121300852	Phillip	Kiocita					21-22 Moanalua Middle	
+1121401487	Skaggs	Sabin					21-22 Moanalua Middle	
+1131700104	Holmberg	Mariko					21-22 Moanalua Middle	
+1171300857	Meyerowitz	Isaac					21-22 Moanalua Middle	
+1201400281	Amian	Mandy	X				21-22 Moanalua Middle	
+1201500230	Turney	Isabella	X				21-22 Moanalua Middle	
+1221300024	Zhou	Jared					21-22 Moanalua Middle	
+1221300446	Medeiros	Kingsen					21-22 Moanalua Middle	
+1241301244	Lavallee	Caleb			X	X	21-22 Moanalua Middle	
+1241400146	Yoshimoto	Keina					21-22 Moanalua Middle	
+1241400493	Fereti	Naomas					21-22 Moanalua Middle	
+1241400534	Martinez	Hayden					21-22 Moanalua Middle	
+1251400640	Lautej	Jacob			X		21-22 Moanalua Middle	
+1251500160	Zhou	Qiming			X		21-22 Moanalua Middle	
+1291400307	Ruan	Xiaoqi			X		21-22 Moanalua Middle	
+1291400323	Zhu	Zihao					21-22 Moanalua Middle	
+1291400357	Li	Eric					21-22 Moanalua Middle	
+1291400422	Bantolina	Megan			X		21-22 Moanalua Middle	
+1291400505	Bihag	Rayson Richard					21-22 Moanalua Middle	
+1311200462	Kaeka	Zalen					21-22 Moanalua Middle	
+1311400048	Seto	Kalai					21-22 Moanalua Middle	
+1331300089	Iu	Tyson					21-22 Moanalua Middle	
+1341400722	Jaictin	JoshuaDavid					21-22 Moanalua Middle	
+1351300805	Ford	Janaia					21-22 Moanalua Middle	
+1351400193	Babauta	Seiha					21-22 Moanalua Middle	
+1361400126	Goo	Brycen					21-22 Moanalua Middle	
+1392100330	Akhter	Aliyah					21-22 Moanalua Middle	
+1471101520	Chen	Bairan					21-22 Moanalua Middle	
+1471401262	Hernandez	Enrique					21-22 Moanalua Middle	
+1471401410	Zhang	Xiaoming					21-22 Moanalua Middle	
+1522004857	Ketron	Kolby					21-22 Moanalua Middle	
+1522100218	Hood	Jordyn					21-22 Moanalua Middle	
+1522100656	Young	Chase					21-22 Moanalua Middle	
+1531400290	Bui	Joseph Evan					21-22 Moanalua Middle	
+2001400101	Haney	Jaeda					21-22 Moanalua Middle	
+2031400116	Peng	Sherise	X		X		21-22 Moanalua Middle	
+2031400174	Rosa	Noah					21-22 Moanalua Middle	
+2031400637	Sakuma	Skyllie					21-22 Moanalua Middle	
+2031401247	Timuialatogo	Tuialele					21-22 Moanalua Middle	
+2042100330	Fontaine	Owen					21-22 Moanalua Middle	
+2042200694	Ocasio	Isaiah					21-22 Moanalua Middle	
+2042200917	Cook	Sierra				X	21-22 Moanalua Middle	
+2042201246	Williams	Brandon			x		21-22 Moanalua Middle	
+2071402887	O'Connor	Catherine	X	x		x	21-22 Moanalua Middle	
+2081300203	Monte-Gruspe	Kraden James					21-22 Moanalua Middle	
+2151400477	Roth	Hunter			x		21-22 Moanalua Middle	
+2151402853	Williams	Tyana					21-22 Moanalua Middle	
+2151906496	Richey	Caitlyn					21-22 Moanalua Middle	
+2171300088	Asano	Abigayle					21-22 Moanalua Middle	
+2171400029	Hashimoto	Dustyn	X		X	X	21-22 Moanalua Middle	
+2171400087	Henry	Nevaeh					21-22 Moanalua Middle	
+2171400102	Mitsuyoshi	Markus					21-22 Moanalua Middle	
+2171400110	Lima	Kamron					21-22 Moanalua Middle	
+2171400144	Tagomori	Kohlton					21-22 Moanalua Middle	
+2171400152	Garma	Kailee					21-22 Moanalua Middle	
+2171400160	Lum	Gavin			X		21-22 Moanalua Middle	
+2171400194	Polycarp	Evan					21-22 Moanalua Middle	
+2171400201	Sullivan	Thomas			X		21-22 Moanalua Middle	
+2171400235	Yoneshige	Ethan					21-22 Moanalua Middle	
+2171400243	Matsumoto	Colton			X		21-22 Moanalua Middle	
+2171400269	Coloma	Secilie					21-22 Moanalua Middle	
+2171400277	Tanaka	Shelby					21-22 Moanalua Middle	
+2171400285	Lulu	Kiara					21-22 Moanalua Middle	
+2171400293	Matsudo	Bright					21-22 Moanalua Middle	
+2171400318	Samonte	Kayli Shae					21-22 Moanalua Middle	
+2171400334	Chung	Noah					21-22 Moanalua Middle	
+2171400342	Aragon	Kendall					21-22 Moanalua Middle	
+2171400350	Gamiao	Jazmin-Rose					21-22 Moanalua Middle	
+2171400368	Inouye-Ng	Lauryn					21-22 Moanalua Middle	
+2171400384	Gurtiza	Noah					21-22 Moanalua Middle	
+2171400392	Fujimoto	Kira	X	X	X	X	21-22 Moanalua Middle	
+2171400459	Uyeda	Tara		X	X	X	21-22 Moanalua Middle	
+2171400475	Cheung	Jonathan					21-22 Moanalua Middle	
+2171400483	Nakahodo	Jeni			X		21-22 Moanalua Middle	
+2171400532	Gapasin	Gryson					21-22 Moanalua Middle	
+2171600738	Mendiola	Oziah					21-22 Moanalua Middle	
+2171800091	Paoa	Tyson					21-22 Moanalua Middle	
+2171801057	Kim	Yujin					21-22 Moanalua Middle	
+2171900743	Leuthner	Caroline					21-22 Moanalua Middle	
+2171900917	Henao Londono	Camila					21-22 Moanalua Middle	
+2172000451	Muenchow	Everett					21-22 Moanalua Middle	
+2172000485	Peiler	Marcus					21-22 Moanalua Middle	
+2172000683	Aeum	Chloe	X		X		21-22 Moanalua Middle	
+2192100086	Rogers	Jadan	X		X	X	21-22 Moanalua Middle	
+2192100119	Hall	Elizabeth					21-22 Moanalua Middle	
+2192100151	Allen	Josiah					21-22 Moanalua Middle	
+2192100169	Garcia	Sebastian		X			21-22 Moanalua Middle	
+2192100218	DeMuth	Hailey					21-22 Moanalua Middle	
+2192100309	Sprigler	Maddison					21-22 Moanalua Middle	
+2192100325	Lathwood	Sophie					21-22 Moanalua Middle	
+2192100375	Allison	Molly					21-22 Moanalua Middle	
+2192100490	Waialae	Rastin					21-22 Moanalua Middle	
+2192100515	Wiley	Ja'Nyla					21-22 Moanalua Middle	
+2192100557	Ahn	Hyejin					21-22 Moanalua Middle	
+2192100565	Cruz Perez	Yariel					21-22 Moanalua Middle	
+2192100599	Brown	Naomi					21-22 Moanalua Middle	
+2192100630	Jackson	Gwendolyn					21-22 Moanalua Middle	
+2192200027	Pagud	Mayah					21-22 Moanalua Middle	
+2192200035	Escobido	Hunter-Logan					21-22 Moanalua Middle	
+2192200051	Dallas	Ellie	X	X		x	21-22 Moanalua Middle	
+2192200069	Brown	Michael	X		X	X	21-22 Moanalua Middle	
+2192200093	Schroeder	Emmett	X	X	X	X	21-22 Moanalua Middle	
+2192200134	Leone	Addison	X		X	X	21-22 Moanalua Middle	
+2192200168	Barlow	Avonleigh					21-22 Moanalua Middle	
+2192200217	Grevious	Jayden					21-22 Moanalua Middle	
+2192200233	Reed	Ethan					21-22 Moanalua Middle	
+2192200267	Henderson	Shanell					21-22 Moanalua Middle	
+2192200275	Minchew	Julia			X	X	21-22 Moanalua Middle	
+2192200283	Treme	James					21-22 Moanalua Middle	
+2192200324	Eke	Grace		X			21-22 Moanalua Middle	
+2192200340	Nixon	Trendan					21-22 Moanalua Middle	
+2192200358	Zamora	Tanya					21-22 Moanalua Middle	
+2192200374	Taijeron-Perreira	Alexx					21-22 Moanalua Middle	
+2192200382	Llamas	Brianna					21-22 Moanalua Middle	
+2192200457	Isotalo	Felicity					21-22 Moanalua Middle	
+2192200465	Maldonado	Ethan					21-22 Moanalua Middle	
+2192200506	Garcia	Karina					21-22 Moanalua Middle	
+2192200514	Smith	Justin					21-22 Moanalua Middle	
+2201800848	Allen 	Aaliyah					21-22 Moanalua Middle	
+2201801010	McAllister	Chloe					21-22 Moanalua Middle	
+2221400684	Ganigan	Jacob Nicholas					21-22 Moanalua Middle	
+2221815274	Bronson	Isabelle					21-22 Moanalua Middle	
+2231400716	Cabral	Aaliyah					21-22 Moanalua Middle	
+2231402671	Semder	Layla	X			x	21-22 Moanalua Middle	
+2232001419	Sanders	Chase					21-22 Moanalua Middle	
+2251400277	Tenorio	Kylie Jeanne					21-22 Moanalua Middle	
+2251400417	Segura	Monica					21-22 Moanalua Middle	
+2251400615	Shiraishi	Chaezie					21-22 Moanalua Middle	
+2251701149	Walker	Zion					21-22 Moanalua Middle	
+2251800687	Flores	Maximus					21-22 Moanalua Middle	
+2252000196	Galman	Gilbert					21-22 Moanalua Middle	
+2252000576	Lederer	Alec					21-22 Moanalua Middle	
+2252000683	Kenyon	Nadia					21-22 Moanalua Middle	
+2252001053	Barnes	Victoria	X		X		21-22 Moanalua Middle	
+2252001079	Gonzalez	Elijah					21-22 Moanalua Middle	
+2252001491	Cantero	Ahtziri	X				21-22 Moanalua Middle	
+2252001582	Johnson	Daelynn					21-22 Moanalua Middle	
+2261303495	Eagen	Grace					21-22 Moanalua Middle	
+2271101557	Jones	Felise					21-22 Moanalua Middle	
+2271201457	Pagador	Jedrek Seth Alexander					21-22 Moanalua Middle	
+2271400879	Tuua	Joseph					21-22 Moanalua Middle	
+2281400646	Faraimo-Avegalio	Fonotala				X	21-22 Moanalua Middle	
+2281401371	Alcala	Alexia					21-22 Moanalua Middle	
+2281401412	Hernandez-Bowles	Adrian					21-22 Moanalua Middle	
+2281501320	Hatfield	Steven			X		21-22 Moanalua Middle	
+2281601478	McAnderson	Rohan					21-22 Moanalua Middle	
+2281801004	Miller	Thomas					21-22 Moanalua Middle	
+2281901681	Bejger	Jazien					21-22 Moanalua Middle	
+2282000416	Southcombe	Ellory					21-22 Moanalua Middle	
+2282000507	Lilly	Hana		X	X		21-22 Moanalua Middle	
+2282001141	Ramos	Reese  Dreizlyn					21-22 Moanalua Middle	
+2282001480	Johnson	Kamar					21-22 Moanalua Middle	
+2282001612	Olgin-Jones	Jaedyn					21-22 Moanalua Middle	
+2282001745	Wood	Kennedy					21-22 Moanalua Middle	
+2291400091	Rivera	Angel					21-22 Moanalua Middle	
+2331400970	Vistante	Alexa Brooke					21-22 Moanalua Middle	
+2331401043	Tavale-Petersen	Royale Que					21-22 Moanalua Middle	
+2361402494	Ruiz	Alicia					21-22 Moanalua Middle	
+2361802804	Galeai	Eryxschmidt					21-22 Moanalua Middle	
+2391101983	Batoto	Alea Malie					21-22 Moanalua Middle	
+2391102030	Goo	Riley					21-22 Moanalua Middle	
+2391205976	Vaoalii	Caleb					21-22 Moanalua Middle	
+2391206007	North	Joby					21-22 Moanalua Middle	
+2391206023	Chung	Taylor					21-22 Moanalua Middle	
+2391300016	Kim	Colten					21-22 Moanalua Middle	
+2391301080	McCray	Milani					21-22 Moanalua Middle	
+2391305173	Butay	Brandon					21-22 Moanalua Middle	
+2391400015	Arroyo	Chynia					21-22 Moanalua Middle	
+2391400057	Lee	Jinusean					21-22 Moanalua Middle	
+2391400065	Tani	Logan			X		21-22 Moanalua Middle	
+2391400073	Uesato	Duncan	X		X		21-22 Moanalua Middle	
+2391400114	Sueoka	Kai			X	X	21-22 Moanalua Middle	
+2391400130	Pak	Navianna-Jai					21-22 Moanalua Middle	
+2391400148	Uyeda	Corey					21-22 Moanalua Middle	
+2391400172	Baniaga	Jayde					21-22 Moanalua Middle	
+2391400213	Park	Journey Chardae					21-22 Moanalua Middle	
+2391400221	Pulu	Stylz					21-22 Moanalua Middle	
+2391400247	Tamura	Cayla					21-22 Moanalua Middle	
+2391400304	Ragasa	Kaylee					21-22 Moanalua Middle	
+2391400312	Roche	Tyler					21-22 Moanalua Middle	
+2391400346	Gimeno	Macaila Kassandra					21-22 Moanalua Middle	
+2391400362	Roy	Sarah Nicole					21-22 Moanalua Middle	
+2391400370	Shin	Kyle	X	x	X		21-22 Moanalua Middle	
+2391400388	Mizue	Eli			X		21-22 Moanalua Middle	
+2391400411	Ejercito-de Guzman	Christopher					21-22 Moanalua Middle	
+2391400429	French	Jessica					21-22 Moanalua Middle	
+2391400453	Degala	Jazlynn					21-22 Moanalua Middle	
+2391400479	Kukonu	William					21-22 Moanalua Middle	
+2391400495	Marcellino	Vancen					21-22 Moanalua Middle	
+2391400502	Montero	Matthew					21-22 Moanalua Middle	
+2391400528	Yu	Fzabel			X		21-22 Moanalua Middle	
+2391400552	Nettles	Phoenix					21-22 Moanalua Middle	
+2391400635	Kukonu	Esabella		x			21-22 Moanalua Middle	
+2391400643	Bumagat	Raean Carey	X	x	X		21-22 Moanalua Middle	
+2391400677	Asuncion	Kayla Marie					21-22 Moanalua Middle	
+2391400685	Kodate	Acacia					21-22 Moanalua Middle	
+2391400718	Valdez	Nash Ethan					21-22 Moanalua Middle	
+2391400726	Tan	Michelle					21-22 Moanalua Middle	
+2391400734	Lin	Raymond			X		21-22 Moanalua Middle	
+2391400742	Howerton	Haylee					21-22 Moanalua Middle	
+2391400776	Kahalewai-Crichton	Lene					21-22 Moanalua Middle	
+2391400792	Wu	Anson					21-22 Moanalua Middle	
+2391400825	Atabay	Reece					21-22 Moanalua Middle	
+2391400875	Aiona	James					21-22 Moanalua Middle	
+2391400883	Huang	Jayden			X		21-22 Moanalua Middle	
+2391400891	Pedro	Janea Ynah	X				21-22 Moanalua Middle	
+2391400908	Oishi-Gascon	Caytlen					21-22 Moanalua Middle	
+2391400924	Olaivar	Azra					21-22 Moanalua Middle	
+2391400958	Hughes	Audrey Lynn Nicole					21-22 Moanalua Middle	
+2391400966	Lian	Rylee			X		21-22 Moanalua Middle	
+2391400974	Agraan	Aubrie Mae					21-22 Moanalua Middle	
+2391401055	Bailey Beck	Nainoa					21-22 Moanalua Middle	
+2391401071	Matsumoto	Pierce	X	X	X	X	21-22 Moanalua Middle	
+2391401097	Maikai	Rayden					21-22 Moanalua Middle	
+2391402780	Castro	Cilina Leandree			X		21-22 Moanalua Middle	
+2391500105	Cobile	Daniel					21-22 Moanalua Middle	
+2391600451	Lao	Weng Leong			X	X	21-22 Moanalua Middle	
+2391801861	Lee	Jenny					21-22 Moanalua Middle	
+2391903361	Lor	Cayden					21-22 Moanalua Middle	
+2391903973	Mamuad	Tyler Chase					21-22 Moanalua Middle	
+2392003889	Cort	Camryn					21-22 Moanalua Middle	
+2392003904	Yun	Chanhee					21-22 Moanalua Middle	
+2392004192	Yao	Xicheng					21-22 Moanalua Middle	
+2411501109	Higgins	Collin	X	X			21-22 Moanalua Middle	
+2411501117	Higgins	Annalyn	X	X	X	X	21-22 Moanalua Middle	
+2431400225	Sakuma	Luke			X		21-22 Moanalua Middle	
+2431400316	Tod	Brody	X				21-22 Moanalua Middle	
+2431400465	Johnson	Syrah					21-22 Moanalua Middle	
+2501102796	Luna	Tanner					21-22 Moanalua Middle	
+2501402107	Biacan	Alisha			X		21-22 Moanalua Middle	
+2531400215	Munalem	Rayan Jared					21-22 Moanalua Middle	
+2621500445	Cambra	Ezrah					21-22 Moanalua Middle	
+2681400151	Capinia	Arianna					21-22 Moanalua Middle	
+2681400557	David	Eli					21-22 Moanalua Middle	
+2691401116	Sterling	Mathias					21-22 Moanalua Middle	
+2761400317	Trias-Maunupau	Brooklynn					21-22 Moanalua Middle	
+2792100175	O'Hanlon	Elena					21-22 Moanalua Middle	
+2801400569	Henson	Maverick					21-22 Moanalua Middle	
+2801401377	Reincke	Melia					21-22 Moanalua Middle	
+2821400343	Pagaoa	Athryn			X		21-22 Moanalua Middle	
+2821401614	Figueroa	Hanalani					21-22 Moanalua Middle	
+2821501118	Pulou	Sosefina					21-22 Moanalua Middle	
+2831400904	Lee	Arah	X		X		21-22 Moanalua Middle	
+2881400264	Sloan	Zoey					21-22 Moanalua Middle	
+2931801427	Samuelu	Princeten					21-22 Moanalua Middle	
+2941400521	Mospens-Cantero	Ashley					21-22 Moanalua Middle	
+2962100017	Pettiford	Jayla	X				21-22 Moanalua Middle	
+2962100380	Brady	Peyton					21-22 Moanalua Middle	
+3051100231	Jones	Jazelle					21-22 Moanalua Middle	
+3072100138	Toll Poor	Cian			x		21-22 Moanalua Middle	
+3131100893	Cruz	Christian					21-22 Moanalua Middle	
+3151400260	Ebalaroza	Xaddex					21-22 Moanalua Middle	
+3222003689	Gariepy	Trenton					21-22 Moanalua Middle	
+3231700738	Anderson	Christian					21-22 Moanalua Middle	
+3351300473	Sapola-Allen	Julius Cognac					21-22 Moanalua Middle	
+3351400175	Pangilinan	Liam	X		X		21-22 Moanalua Middle	
+3511400208	Keuma-McKee	Ezekiel					21-22 Moanalua Middle	
+3751400804	Jones	Ashari Yusef					21-22 Moanalua Middle	
+3861401114	Kurizaki	Ashley					21-22 Moanalua Middle	
+4101900160	Manglicmot	Kaohu					21-22 Moanalua Middle	
+4251400879	Semes	Deja Nae					21-22 Moanalua Middle	
+1071300148	Soriano	Wyatt Luke					MMS - Not Projected	
+1071400121	Barut	Jordan					MMS - Not Projected	
+1071400428	Andersen	Christian K					MMS - Not Projected	
+1071900118	Megallon	Ashley Rhian					MMS - Not Projected	
+1121400463	Perry	Jaydis					MMS - Not Projected	
+1171400583	Lewis	Lutalo					MMS - Not Projected	
+1201400223	Domingo	Faith Eden	X				MMS - Not Projected	
+1201400257	Viloria	Jaylin					MMS - Not Projected	
+1201400273	Tanaka	Draezyn					MMS - Not Projected	
+1211400032	Dumbrigue	Jzayla Aiyanna					MMS - Not Projected	
+1211400173	Yucoco	Bethany London					MMS - Not Projected	
+1221400031	Teppang	Erin	X		X		MMS - Not Projected	
+1221400479	Manoa	Kawena					MMS - Not Projected	
+1231400022	Quiton	Rachael					MMS - Not Projected	
+1241300098	Ramos	Kealohilani					MMS - Not Projected	
+1241400352	Sagucio	Harley					MMS - Not Projected	
+1241400576	Yoshizawa	Dylan					MMS - Not Projected	
+1262100020	Kim	Olivia	X			X	MMS - Not Projected	
+1311400072	Takara	Cody			X		MMS - Not Projected	
+1311400262	Kealoha	Kyson					MMS - Not Projected	
+1341400863	Lee	Chloe					MMS - Not Projected	
+1431200814	Manoa	Alena					MMS - Not Projected	
+1431400086	Wang	Lulu					MMS - Not Projected	
+1471400610	Bush	Kanoe					MMS - Not Projected	
+1471400719	Daoang	Adriana					MMS - Not Projected	
+1551400818	Aubin	Charlotte					MMS - Not Projected	
+2001400044	Kono	Kaylee					MMS - Not Projected	
+2001400078	Murillo	Ronson					MMS - Not Projected	
+2001400218	Kamikawa	Brooke					MMS - Not Projected	
+2012100268	Abbott	Ethan					MMS - Not Projected	
+2031400083	Patelesio	Gabriel					MMS - Not Projected	
+2031401411	Waa	Samantha					MMS - Not Projected	
+2031901458	Lee	Lucianne					MMS - Not Projected	
+2101900013	Yonemoto	Callie	X				MMS - Not Projected	
+2151700010	Patterson	Jessica	X		X		MMS - Not Projected	
+2151701133	Maramag-Ganigan	Caden					MMS - Not Projected	
+2151906800	Tionquiao	Nathan	X		X	X	MMS - Not Projected	
+2171400326	Maki	Brianne					MMS - Not Projected	
+2192100010	Vo	Joscelyn					MMS - Not Projected	
+2192100359	Coan	Zoie					MMS - Not Projected	
+2192100648	DuBois	Julienne		X	X	X	MMS - Not Projected	
+2192200192	Ruiz	Kendal					MMS - Not Projected	
+2192200522	Hallinan	Catherine					MMS - Not Projected	
+2192200556	Davis	Ana					MMS - Not Projected	
+2221400030	Butay	Ava Grace					MMS - Not Projected	
+2221400048	Negre	Sharleen Star			X		MMS - Not Projected	
+2221401583	Owens	Sierra-Lynn					MMS - Not Projected	
+2232001568	Titze Monasterio	Michelle					MMS - Not Projected	
+2251400459	Higa	Kimora					MMS - Not Projected	
+2271300424	Sogawa	Dylan					MMS - Not Projected	
+2271400077	Haramura	Jaylin					MMS - Not Projected	
+2271400126	Hatori	Kauanoe					MMS - Not Projected	
+2271700694	Kawakami Kauweloa	Paliku					MMS - Not Projected	
+2331301309	Kamaunu	Jaileana					MMS - Not Projected	
+2331400079	Arakaki	Jami					MMS - Not Projected	
+2331400326	Settsu Hernandez	Kayla	X		X		MMS - Not Projected	
+2331400863	Lazo	Justyn					MMS - Not Projected	
+2331800231	Ahn	Sierra			X		MMS - Not Projected	
+2361401529	Telesa	Cherish					MMS - Not Projected	
+2391400031	Huang	Kaitlin			X		MMS - Not Projected	
+2391400099	Lam	Kylie	X				MMS - Not Projected	
+2391400239	Vili	Leilene					MMS - Not Projected	
+2391400297	Aceret	Jerijoe Jensen	X	X	X		MMS - Not Projected	
+2391400601	Sabas	Jayden Christopher					MMS - Not Projected	
+2391400651	Murata	Kai					MMS - Not Projected	
+2391400669	Garcia	Jamicah Zyra	X				MMS - Not Projected	
+2391401138	Estabilio	Tyree					MMS - Not Projected	
+2391602994	De Guzman	Rica Ewalani					MMS - Not Projected	
+2401400856	Chun	Ethan		X	X		MMS - Not Projected	
+2431400324	Ma	Janie					MMS - Not Projected	
+2501400870	Ibarra	Kiare					MMS - Not Projected	
+2501500902	Racca	Rick Adrian					MMS - Not Projected	
+2531400033	Fomai	Kaleialii					MMS - Not Projected	
+2541400149	Balisacan	Bree			X		MMS - Not Projected	
+2541400157	Balisacan	Alia			X		MMS - Not Projected	
+2571500020	Agostosa	Keira Lana					MMS - Not Projected	
+2591400102	Escaba	Taegan					MMS - Not Projected	
+2601400068	Hayashi	Peyton					MMS - Not Projected	
+2601400224	Teruya	Megyn	X				MMS - Not Projected	
+2651400013	Lapurga	Leira Johannah		X	X		MMS - Not Projected	
+2691400077	Laguana	Jaycen					MMS - Not Projected	
+2801400022	Ohta	Shayna	X				MMS - Not Projected	
+2801400246	Lorenzo	Jerney					MMS - Not Projected	
+2831400011	Tsuha	Allison	X	x			MMS - Not Projected	
+2831400053	Belza	Simon Christian			X		MMS - Not Projected	
+2831400128	Hieda	Miya					MMS - Not Projected	
+2851400233	Shin	Audrey				X	MMS - Not Projected	
+2861501007	Ninomiya	Kalena	X	X	X	X	MMS - Not Projected	
+2881400131	Iwata	Emma					MMS - Not Projected	
+2881400149	Isono	Reef					MMS - Not Projected	
+2881400248	Yasuda	Rylan					MMS - Not Projected	
+2901400236	Yokoe	Jaden					MMS - Not Projected	
+2901400252	Tomaszek	Lilianna					MMS - Not Projected	
+2901900520	Racca	Casrhia Leigh					MMS - Not Projected	
+3041300214	Tano	Aden					MMS - Not Projected	
+3131400436	Shiroma	Kaitlyn	X	X			MMS - Not Projected	
+3131400486	Toguchi	Logan	X	X			MMS - Not Projected	
+3141400071	Funai	Emeri	X	x			MMS - Not Projected	
+3141400089	Funai	Kendis	X	x			MMS - Not Projected	
+3151200874	Lee	Gunnar					MMS - Not Projected	
+3211400147	Holty	Mercury					MMS - Not Projected	
+3231400616	Fellezs	Isaiah					MMS - Not Projected	
+3351300663	Oumi	Madisen		X	X		MMS - Not Projected	
+3671400630	Dela Cruz	Cayden					MMS - Not Projected	
+5411400430	Sepulveda-Sataraka	Isaac					MMS - Not Projected	
