@@ -13,7 +13,9 @@ public class CourseMaster {
         department = dept;
     }
     
-    public void addRequest(){  numRequest++;  }
+    public void addRequest(){  numRequest++;
+    System.out.println("REQUEST ADDED");
+  }
     public void addAlternate() {  numAltRequest++; }
     
     public String getACCN() { return ACCN; }

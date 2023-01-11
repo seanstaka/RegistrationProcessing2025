@@ -51,7 +51,7 @@ public class MSStudent extends Student {
         for(ActiveStudent s : MiddleSchool.getMsActiveStudentList()) {
             if(s.getID().equals(this.getID())) {
                 projected = true;
-                System.out.println("PROJECTED ---- CREATED in 2nd Constructor");
+                //System.out.println("PROJECTED ---- CREATED in 2nd Constructor");
                 break;
             }
         }

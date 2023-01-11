@@ -1,0 +1,49 @@
+ACCN	Course Name	Num Requests	Department
+FMB2000	Band 1	0	Art - Music	0
+FMC1000	Chorus 1	0	Art - Music	0
+FMF1000	Guitar 1	0	Art - Music	0
+FMK1000	Piano 1	0	Art - Music	0
+FML1000	Ukulele 1	0	Art - Music	0
+FMV2000	Orchestra 1	0	Art - Music	0
+FDC1000	Creative Dance 1	0	Art - Performing Arts	0
+FTA1300	Beginning Acting	0	Art - Performing Arts	0
+FVB1000	General Art 1	0	Art - Visual Arts	0
+FVE1000	Sculpture 1	0	Art - Visual Arts	0
+FVK1000	Design 1	0	Art - Visual Arts	0
+FVL1000	Ceramics 1	0	Art - Visual Arts	0
+FVP1000	Photography 1	0	Art - Visual Arts	0
+FVQ1000	Drawing & Painting 1	0	Art - Visual Arts	0
+TCO1000	Found. of Fashion Design	0	CTE - ACCP	0
+TCC1000M	Found. of Creative Media (Film)	0	CTE - ACCP	0
+TCC1000N	Found. of Creative Media (Film)	0	CTE - ACCP	0
+TCC1000Q	Found. of Creative Media (Graphics)	0	CTE - ACCP	0
+TBB1000	Found. In Business	0	CTE - Business	0
+TEF1000	Found. in Education	0	CTE - Education	0
+TAE1000	Found. Engineering Tech	0	CTE - Engineering	0
+TTF1000	Found. Auto Main & Lt Repair	0	CTE - Engineering	0
+THF1000	Found. Health Services	0	CTE - Health	0
+TTU1000	Found. of Culinary	0	CTE - PHS	0
+TJA1000	Air Force JROTC 1	0	ROTC	0
+FDK1000	Hawaiian Dance 1	0	World Language	0
+FDP1000	Polynesian Dance 1	0	World Language	0
+WAC1000	Chinese 1	0	World Language	0
+WAJ1000	Japanese 1	0	World Language	0
+WAK1000	Korean 1	0	World Language	0
+WEF1000	French 1	0	World Language	0
+WEG1000	German 1	0	World Language	0
+WES1000	Spanish 1	0	World Language	0
+WPH1000	Hawaiian 1	0	World Language	0
+CHR1100	Modern History of Hawaii	0	Social Studies	0
+CHR1100HNR	Modern History of Hawaii Honors	0	Social Studies	0
+CGU1100	Participation in a Democracy	0	Social Studies	0
+CGU1100HNR	Participation in a Democracy Honors	0	Social Studies	0
+MAX1155	Algebra 1	0	Mathematics	0
+MAX1200	Algebra 2	0	Mathematics	0
+MGX1150	Geometry	0	Mathematics	0
+SPH5603	Physics	0	Science	0
+SPH5603HNR	Physics Honors	0	Science	0
+LCY1010	English Language Arts 1	0	Language Arts	0
+LCY1010HNR	English Language Arts 1 Honors	0	Language Arts	0
+HLE1000	Health: Today & Tomorrow	0	HPE	0
+PEP1005	PE Life Fitness	0	HPE	0
+TCF1000	Found. of Construction	0	CTE - Engineering	0

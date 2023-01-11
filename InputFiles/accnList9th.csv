@@ -12,16 +12,16 @@ FVK1000,Design 1,1,Year,Art - Visual Arts
 FVL1000,Ceramics 1,1,Year,Art - Visual Arts
 FVP1000,Photography 1,1,Year,Art - Visual Arts
 FVQ1000,Drawing & Painting 1,1,Year,Art - Visual Arts
-TAC2010F,ACCP Core - Fashion,1,Year,CTE - ACCP
-TAC2010M,ACCP Core - MENEMAC,1,Year,CTE - ACCP
-TAC2010N,ACCP Core - Media,1,Year,CTE - ACCP
-TAC2010Q,ACCP Core - Graphics,1,Year,CTE - ACCP
+TCO1000,Found. of Fashion Design,1,Year,CTE - ACCP
+TCC1000M,Found. of Creative Media (Film),1,Year,CTE - ACCP
+TCC1000N,Found. of Creative Media (Film),1,Year,CTE - ACCP
+TCC1000Q,Found. of Creative Media (Graphics),1,Year,CTE - ACCP
 TBB1000,Found. In Business,1,Year,CTE - Business
-TEF1000,Foundations in Education,1,Year,CTE - Education
-TAE1000,Found Engineering Tech,1,Year,CTE - Engineering
-TTF1000,Found Auto Main & Lt Repair,1,Year,CTE - Engineering
-THF1000,Found Health Services,1,Year,CTE - Health
-TPU7216,Culinary Arts 1,1,Year,CTE - PHS
+TEF1000,Found. in Education,1,Year,CTE - Education
+TAE1000,Found. Engineering Tech,1,Year,CTE - Engineering
+TTF1000,Found. Auto Main & Lt Repair,1,Year,CTE - Engineering
+THF1000,Found. Health Services,1,Year,CTE - Health
+TTU1000,Found. of Culinary,1,Year,CTE - PHS
 TJA1000,Air Force JROTC 1,1,Year,ROTC
 FDK1000,Hawaiian Dance 1,1,Year,World Language
 FDP1000,Polynesian Dance 1,1,Year,World Language
@@ -45,3 +45,4 @@ LCY1010,English Language Arts 1,1,Year,Language Arts
 LCY1010HNR,English Language Arts 1 Honors,1,Year,Language Arts
 HLE1000,Health: Today & Tomorrow,0.5,Sem,HPE
 PEP1005,PE Life Fitness,0.5,Sem,HPE
+TCF1000,Found. of Construction,1,Year,CTE - Engineering

@@ -1,9 +1,11 @@
 import java.util.ArrayList;
 
+import javafx.scene.media.Media;
+
 public class MiddleSchool {
     private final static int STUDENT_INFO = 12;
     private final static int ID_INDEX = 4;
-    private final static int NUM_ELECTIVE_CHOICES = 4;
+    private final static int NUM_ELECTIVE_CHOICES = 5;
     private static int numElectivesProcessed = 0;
     private static ArrayList<ActiveStudent> msActiveStudentList = new ArrayList<ActiveStudent>();
     private static ArrayList<Student> msStudents = new ArrayList<Student>();
@@ -18,6 +20,7 @@ public class MiddleSchool {
         May need to adjust code in importElectives() based on changes to the Google Form
          */
         MediaFile.setInputFile(file);
+        MediaFile.readString();
         boolean hasNext = true;
         //String clear = MediaFile.readString();  //clear header row
         while(hasNext) {
@@ -110,9 +113,10 @@ public class MiddleSchool {
         }
 
         //for(int i = 0; i < studentInfo.length; i++) {  System.out.println(studentInfo[i]);  }
-        String[] electivesInfo  = new String[5];
+        String[] electivesInfo  = new String[NUM_ELECTIVE_CHOICES+2];
         for(int i = 0; i < electivesInfo.length; i++) {
             electivesInfo[i] = results[STUDENT_INFO + i];
+            //System.out.println("CHECK " + i + " " + electivesInfo[i]);
         }
         //for(int i = 0; i < electivesInfo.length; i++) {  System.out.println(electivesInfo[i]);  }
 
@@ -164,11 +168,11 @@ public class MiddleSchool {
             applicant.addCourse(new Course(electivesInfo[i], "NONE", "NONE"));
         }
 
-        //System.out.println(electivesInfo[0]);
-        if(electivesInfo[electivesInfo.length-4].indexOf("Yes") != -1) {
+        //System.out.println("GE" + electivesInfo[electivesInfo.length-1]);
+        //if(electivesInfo[electivesInfo.length-1].indexOf("Yes") != -1) {
             //System.out.println(applicant + " is a GE");
-            applicant.setGE(electivesInfo[electivesInfo.length-4]);
-        }
+            applicant.setGE(electivesInfo[electivesInfo.length-1]);
+        //}
         if(electivesInfo[electivesInfo.length-3].equalsIgnoreCase("Yes")) {
             applicant.setSummer(electivesInfo[electivesInfo.length-2]);
         }

@@ -197,7 +197,7 @@ public class School {
 
     public static void exportMergeData() {
         MediaFile.setOutputFile("dataForMerge");
-        String[] headers = {"Date","SFirst","Slast","SID","Sphone","Sgrad","Counselor","Pname","Pemail","Pphone",
+        String[] headers = {"Date","SFirst","Slast","SID","Sphone", "school", "Sgrad","Counselor","Pname","Pemail","Pphone",
                 "EngACCN","EngCourse","EngTeach","Soc1ACCN","Soc1Course","Soc2ACCN","Soc2Course","SocTeach","MathACCN","MathCourse","MathTeach",
                 "SciACCN","SciCourse","SciTeach", "PEACCN","PEName","PETeach","HlthACCN","HlthName","HlthTeach",
                 "E1Code","E1Name","E1Teach","E2Code","E2Name","E2Teach","E3Code","E3Name","E3Teach","E4Code","E4Name","E4Teach",
@@ -213,6 +213,7 @@ public class School {
             MediaFile.writeString(s.getLastName(), false);
             MediaFile.writeString(s.getID(), false);
             MediaFile.writeString(s.getPhoneNumber(), false);
+            MediaFile.writeString(s.getSchool(), false);
             MediaFile.writeString(s.getGradYear(), false);
             MediaFile.writeString(s.getCounselor(), false);
             Parent p = s.getParent();

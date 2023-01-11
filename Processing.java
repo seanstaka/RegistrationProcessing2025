@@ -1,5 +1,15 @@
 import java.util.Scanner;
 
+/////////////////////////////////////////////////////////////////////////////////////
+/*
+ *   Possible Improvments:
+ *    - Check for multiple world languages
+ *    - Check Algebra 2 vs Geometry
+ *    - Check for US History
+ *    - Add 5th choice to Google Form
+ */
+/////////////////////////////////////////////////////////////////////////////////////
+
 public class Processing {
     public final static int STUDENT_INFO = 12;
     public final static int CORE_INFO = 15;
@@ -66,7 +76,7 @@ public class Processing {
     private static void infoLookup() {
         Scanner sc = new Scanner(System.in);
         System.out.println("1) Student Lookup or 2) Export Class List (type n to end)");
-        String input = sc.next();
+        String input = sc.nextLine();
         while(input.indexOf("n") == -1) {
             if(input.equals("1")) {
                 studentLookup();
@@ -78,7 +88,7 @@ public class Processing {
             System.out.println("1) Student Lookup or 2) Export Class List");
             input = sc.next();
         }
-        sc.close();
+        //sc.close();
     }
 
     public static void studentLookup() {
@@ -90,10 +100,11 @@ public class Processing {
             System.out.println("Enter Student ID");
             input = sc.next();
         }
-        sc.close();
+        //sc.close();
     }
 
     private static void exportFiles() {
+        /*
         boolean invalid = true;
         do {
             invalid = true;
@@ -118,6 +129,22 @@ public class Processing {
                 School.exportMergeData();
             }
         } while(!invalid);
+        */
+        int input = -1;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Export Files? 1)Yes 2)No");
+        input = sc.nextInt();
+        //sc.close();
+        if (input == 1) {
+            School.exportMissing();
+            MiddleSchool.exportMissing("missingCardsMS");
+            School.exportMissingSPED();
+            School.exportRequestCount();
+            //School.shortClasses();
+            School.exportBadACCN();
+            School.exportBadIDs();
+            School.exportMergeData();
+        }
     }
 
     private static void exportClass() {
@@ -129,6 +156,6 @@ public class Processing {
             System.out.println("Enter Course ACCN");
             input = sc.next();
         }
-        sc.close();
+        //sc.close();
     }
 }

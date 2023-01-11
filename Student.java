@@ -9,6 +9,7 @@ public class Student {
     private String phoneNumber;
     private String gradYear;
     private String counselor;
+    private String school;
     private Parent parent;
     private ArrayList<Course> requestList;
     private boolean summerPlan = false;
@@ -28,8 +29,9 @@ public class Student {
         lastName = info[3];
         ID = info[4];
         phoneNumber = info[5];
+        school = info[7];
         if(gradYear == null) {
-            gradYear = "2026";
+            gradYear = "2027";
         }
         counselor = info[8];
         parent = new Parent(info[9], info[10], info[11]);
@@ -44,7 +46,8 @@ public class Student {
         ID = id;
         firstName = first;
         lastName = last;
-        gradYear = "2026";
+        school = "UNKNOWN";
+        gradYear = "2027";
         requestList = new ArrayList<Course>();
         //School.cardProcessed(this);
         submitDate = "DID NOT SUBMIT FORM";
@@ -62,6 +65,7 @@ public class Student {
     public void updateInfo(String[] info) {
         submitDate = info[0];
         phoneNumber = info[5];
+        school = info[7];
         counselor = info[8];
         parent = new Parent(info[9], info[10], info[11]);
         geType = info[12];
@@ -235,6 +239,10 @@ public class Student {
 
     public String getSummerCourse() {
         return summerCourse;
+    }
+
+    public String getSchool() {
+        return school;
     }
 
 
