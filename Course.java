@@ -33,7 +33,14 @@ public class Course {
 
     public boolean isAlternate() {  return alternate;  }
 
-    public void makeAlt() { this.alternate = true; }
+    public void makeAlt() { 
+        for(CourseMaster cm : School.getCourseMaster()) {
+            if(cm.getACCN().equals(ACCN)) {
+                cm.addAlternate();
+            }
+        }
+        this.alternate = true; 
+    }
 
     //Looks through the course master arrayList for the ACCN for the actual title.
     //If the ACCN can't be found, use the title input by student

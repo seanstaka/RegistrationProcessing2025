@@ -149,6 +149,7 @@ public class School {
             ArrayList<Course> list = s.getRequestList();
             for(Course c : list) {
                 if(c.getACCN().equals(accn)) {
+                    System.out.println("NAME:" + s.getLastName());
                     MediaFile.writeString(c.getACCN(), false);
                     MediaFile.writeString(s.getID(), false);
                     MediaFile.writeString(s.getLastName(), false);
@@ -166,7 +167,7 @@ public class School {
 
         }
         MediaFile.saveAndClose();
-        System.out.println(processedStudents);
+        //System.out.println(processedStudents);
     }
 
     public static void shortClasses() {
@@ -302,5 +303,9 @@ public class School {
 
     public static void addProcessed(Student s) {
         processedStudents.add(s);
+    }
+
+    public static ArrayList<CourseMaster> getCourseMaster() {
+        return courseList;
     }
 }

@@ -13,10 +13,15 @@ public class CourseMaster {
         department = dept;
     }
     
-    public void addRequest(){  numRequest++;
-    System.out.println("REQUEST ADDED");
-  }
-    public void addAlternate() {  numAltRequest++; }
+    public void addRequest(){  
+        numRequest++;
+        System.out.println("REQUEST ADDED");
+    }
+
+    public void addAlternate() {  
+        numRequest--;
+        numAltRequest++; 
+    }
     
     public String getACCN() { return ACCN; }
     public String getCourseName() { return courseName; }

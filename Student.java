@@ -58,7 +58,19 @@ public class Student {
 
     }
 
+    /**
+     * This method will add a course to a student's request list and add to the request count.
+     * The count includeds requests, whether they are alternates or not.  The count will be fixed when 
+     * alternates are marked.
+     * 
+     * @param request Course that is being added to the student's request list
+     */
     public void addCourse(Course request) {
+        for(CourseMaster cm : School.getCourseMaster()) {
+            if(cm.getACCN().equals(request.getACCN())) {
+                cm.addRequest();
+            }
+        }
         requestList.add(request);
     }
 
@@ -125,6 +137,7 @@ public class Student {
     }
 
     public void exportRequests() {
+        System.out.println("EXPORT REQUESTS HAS RUN");
         for (Course c : requestList) {
             if (!c.isAlternate()) {
                 countRequests(c.getACCN());
@@ -142,6 +155,7 @@ public class Student {
     }
 
     private void countRequests(String ACCN) {
+        System.out.println("COUNT REQUESTS HAS RUN");
         for (CourseMaster c : School.courseList) {
             if (c.getACCN().equalsIgnoreCase(ACCN)) {
                 c.addRequest();
