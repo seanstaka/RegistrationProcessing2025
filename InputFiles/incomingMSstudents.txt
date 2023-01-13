@@ -1,4 +1,4 @@
-State ID	Last Name	First Name	Next Gr	GE	School From	As of 1/20/2023 **HIDOE Next Year Report
+State ID	Last Name	First Name	Next Gr	GE	School From	As of 1/13/2023 **HIDOE Next Year Report
 1501300814	Abang	Jaysen	9	N	22-23 Moanalua Middle	
 2871600354	Adena	Khloe	9	N	22-23 Moanalua Middle	
 2192300034	Agapito	Jacob Brix	9	N	22-23 Moanalua Middle	
@@ -56,8 +56,10 @@ State ID	Last Name	First Name	Next Gr	GE	School From	As of 1/20/2023 **HIDOE Nex
 2251500151	Esperanza	Zackary	9	N	22-23 Moanalua Middle	
 2192200449	Espinoza	Emileigh	9	N	22-23 Moanalua Middle	
 3221500559	Estrada	Miliana	9	N	22-23 Moanalua Middle	
+2571500830	Evans	Adelade	9	N	22-23 Moanalua Middle	
 2611401354	Faipea-Soi	Piru	9	N	22-23 Moanalua Middle	
 1001500599	Farias	Ezekiel	9	N	22-23 Moanalua Middle	
+1241500509	Faumui	Xayden	9	N	22-23 Moanalua Middle	
 2871500157	Faustino	Dylan	9	N	22-23 Moanalua Middle	
 2871500149	Faustino	Jett	9	N	22-23 Moanalua Middle	
 2392004168	Feng	Shiwen	9	N	22-23 Moanalua Middle	
@@ -130,12 +132,12 @@ State ID	Last Name	First Name	Next Gr	GE	School From	As of 1/20/2023 **HIDOE Nex
 2192200176	Liddick	Scott	9	N	22-23 Moanalua Middle	
 2431600950	Lim	Yeon	9	N	22-23 Moanalua Middle	
 1491500667	Lim-Carter	Faith	9	N	22-23 Moanalua Middle	
+2192300604	Link	Tristen	9	N	22-23 Moanalua Middle	
 2391503042	Liu	Matthew	9	N	22-23 Moanalua Middle	
 2391503026	Lozano	Maevyn	9	N	22-23 Moanalua Middle	
 2251500028	Luafalemana-Haney	Wilfred	9	Y	22-23 Kalakaua Middle	
 2252000104	Lyons	Forrest	9	N	22-23 Moanalua Middle	
 2171500276	Macadaeg	Shaine	9	N	22-23 Moanalua Middle	
-2192300266	Martin	Claire	9	N	22-23 Moanalua Middle	
 2221500419	Mateo	Jeighde Ann	9	N	22-23 Moanalua Middle	
 2101500348	McCormick	Takoda	9	N	22-23 Moanalua Middle	
 2171500185	McGee	Roxy	9	N	22-23 Moanalua Middle	
