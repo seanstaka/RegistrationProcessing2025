@@ -21,6 +21,7 @@ public class Student {
     private boolean goodID = true;
     private boolean geoEx = false;
     private String geType = "";
+    //private boolean reqCulinary = false; //keeps track of whether or not culinary is one of their top choices
 
     public Student(String[] info) {
         submitDate = info[0];
@@ -68,7 +69,7 @@ public class Student {
     public void addCourse(Course request) {
         for(CourseMaster cm : School.getCourseMaster()) {
             if(cm.getACCN().equals(request.getACCN())) {
-                cm.addRequest();
+                cm.addRequest(this);
             }
         }
         requestList.add(request);
@@ -116,7 +117,7 @@ public class Student {
             } else {
                 numSemesters += requestList.get(i).getNumSem();
                 if (numSemesters > 14) {
-                    requestList.get(i).makeAlt();
+                    requestList.get(i).makeAlt(this);
                     altCredits += requestList.get(i).getNumSem();
                     numSemesters -= requestList.get(i).getNumSem();
                 }
@@ -158,7 +159,7 @@ public class Student {
         System.out.println("COUNT REQUESTS HAS RUN");
         for (CourseMaster c : School.courseList) {
             if (c.getACCN().equalsIgnoreCase(ACCN)) {
-                c.addRequest();
+                c.addRequest(this);
                 break;
             }
         }
@@ -167,8 +168,28 @@ public class Student {
     private void countAlternates(String ACCN) {
         for (CourseMaster c : School.courseList) {
             if (c.getACCN().equalsIgnoreCase(ACCN)) {
-                c.addAlternate();
+                c.addAlternate(this);
                 break;
+            }
+        }
+    }
+
+    public void markCulinaryAlt() {
+        boolean hasCulinary = false;
+        for(Course c : requestList) {
+            if(c.getACCN().indexOf("TTU1000") > -1 && !c.isAlternate()) {
+                hasCulinary = true;
+            }
+            if(hasCulinary) {
+                if(c.isAlternate()) {
+                    for(CourseMaster cm : School.courseList) {
+                        if(cm.getACCN().equals(c.getACCN())) {
+                            System.out.print(lastName + " ");
+                            cm.countCulinaryAlt();
+                            return;
+                        }
+                    }
+                }
             }
         }
     }

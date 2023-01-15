@@ -104,7 +104,7 @@ public class MiddleSchool {
         //System.out.println("TESTING" + results[17]);
         Student applicant = findStudent(studentInfo[ID_INDEX]);
         if(applicant == null) {
-            System.out.println("ELECTIVES BUT NO CORE!!!!");
+            //System.out.println("ELECTIVES BUT NO CORE!!!!");
             //System.out.println(studentInfo[ID_INDEX]);
             applicant = new MSStudent(studentInfo, false);
         } else {

@@ -33,10 +33,10 @@ public class Course {
 
     public boolean isAlternate() {  return alternate;  }
 
-    public void makeAlt() { 
+    public void makeAlt(Student s) { 
         for(CourseMaster cm : School.getCourseMaster()) {
             if(cm.getACCN().equals(ACCN)) {
-                cm.addAlternate();
+                cm.addAlternate(s);
             }
         }
         this.alternate = true; 

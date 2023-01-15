@@ -41,6 +41,7 @@ public class Processing {
          * date-sEmail-sFirst-sLast-sID-sPhone-grade-prevSchool-BLANK-pName-pEmail-pPhone-summer-elect1-elect2-elect3-elect4
          */
         MiddleSchool.processElectives("InputFiles\\msElectiveChoices");
+        School.markCulinaryAlt();
 
         //MiddleSchool.markProjected();
         MiddleSchool.processMissingRecommendations();

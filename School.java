@@ -3,7 +3,6 @@ import java.util.ArrayList;
 public class School {
     public static ArrayList<CourseMaster> courseList = new ArrayList<CourseMaster>();
     public static ArrayList<ActiveStudent> studentList = new ArrayList<ActiveStudent>();
-
     public static ArrayList<Student> processedStudents = new ArrayList<Student>();
 
     /**
@@ -62,7 +61,7 @@ public class School {
         for(ActiveStudent active : studentList) {
             //System.out.println("s.getID() " + s.getID() + "\tid " + active.getID());
             if(active.getID().equals(s.getID())) {
-                System.out.println("FOUND" + s.getID());
+                //System.out.println("FOUND" + s.getID());
                 active.submitted();
                 found = true;
                 break;
@@ -72,7 +71,7 @@ public class School {
         if(!found) {
             for(ActiveStudent active : MiddleSchool.getMsActiveStudentList()) {
                 if(active.getID().equals(s.getID())) {
-                    System.out.println("FOUND in MS" + s.getID());
+                    //System.out.println("FOUND in MS" + s.getID());
                     //System.out.println("s.getID() " + active.getID() + "\t" + active.didSubmit());
                     active.submitted();
                     found = true;
@@ -131,14 +130,20 @@ public class School {
         MediaFile.writeString("ACCN", false);
         MediaFile.writeString("Course Name", false);
         MediaFile.writeString("Num Requests", false);
-        MediaFile.writeString("Department", true);
+        MediaFile.writeString("Num GE Requests", false);
+        MediaFile.writeString("Department", false);
+        MediaFile.writeString("Num Alts", false);
+        MediaFile.writeString("Num GE Alts", false);
+        MediaFile.writeString("Num Culinary Alts", true);
         for(CourseMaster c : courseList) {
             MediaFile.writeString(c.getACCN(), false);
             MediaFile.writeString(c.getCourseName(), false);
             MediaFile.writeString(String.valueOf(c.getNumRequests()), false);
+            MediaFile.writeString(String.valueOf(c.getNumRequestsGE()), false);
             MediaFile.writeString(c.getDept(), false);
-            MediaFile.writeString(String.valueOf(c.getNumAlternates()), true);
-
+            MediaFile.writeString(String.valueOf(c.getNumAlternates()), false);
+            MediaFile.writeString(String.valueOf(c.getNumAlternatesGE()), false);
+            MediaFile.writeString(String.valueOf(c.getCulinaryAlts()), true);
         }
         MediaFile.saveAndClose();
     }
@@ -258,7 +263,7 @@ public class School {
             MediaFile.writeString(s.getSummerCourse(), false);
             MediaFile.writeString(""+((MSStudent)s).isProjected(), false);
 
-            if(s.getGradYear().equals("2026")) {
+            if(s.getGradYear().equals("2027")) {
                 MediaFile.writeString(""+((MSStudent)s).needRecommendations(), false);
             }
 
@@ -295,6 +300,16 @@ public class School {
             }
         }
         MediaFile.saveAndClose();
+    }
+
+    /**
+     * This method goes through the student list, checks if they have requested culinary
+     * as a top choice.  If it does, count their first alternate
+     */
+    public static void markCulinaryAlt() {
+        for(Student s : processedStudents) {
+            s.markCulinaryAlt();
+        }
     }
 
     public static ArrayList<Student> getProcessedStudents() {
