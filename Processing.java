@@ -17,6 +17,7 @@ public class Processing {
 
     public static void main(String[] args) {
         System.out.println("CHANGE MADE TO 2025");
+        System.out.println("Change made again after renaming");
         School.importCourses();
         //School.loadStudents();
 
