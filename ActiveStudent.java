@@ -41,6 +41,10 @@ public class ActiveStudent {
     public String getID() {
         return id;
     }
+
+    public String getSchool() {
+        return capTeacher1;  //stores school for MS students
+    }
     
     public String getName() {
         return lastName + ", " + firstName;

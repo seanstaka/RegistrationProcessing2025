@@ -1,64 +1,86 @@
 Student ID	Student Name	School	Notes
-1501300814	Abang, Jaysen	22-23 Moanalua Middle
-2192200605	Agliano, Devin	22-23 Moanalua Middle
-2281801319	Allen, Ashton	22-23 Moanalua Middle
-2741500897	Anakalea-Brown, Dominic	22-23 Moanalua Middle
-2282101447	Balgos, Gabriel	22-23 Moanalua Middle
-2282001810	Bass, Anthony	22-23 Moanalua Middle
-2042200181	Bayse, Robinson	22-23 Aliamanu Middle
-2282100986	Blake, Kiara	22-23 Moanalua Middle
-2192200332	Bonfiglio, Lujain	22-23 Moanalua Middle
-2271500357	Cruz, Ava	22-23 Aliamanu Middle
-2361500869	Delfin, Cisco	22-23 Aliamanu Middle
-2252100814	DeMuth, Michael	22-23 Moanalua Middle
-2192200423	Ellis, Journey	22-23 Moanalua Middle
-2251500151	Esperanza, Zackary	22-23 Moanalua Middle
-2571500830	Evans, Adelade	22-23 Moanalua Middle
-1001500599	Farias, Ezekiel	22-23 Moanalua Middle
-2711400479	Finley, Preciouschanel	22-23 Aliamanu Middle
-2252100806	Free, Mia	22-23 Moanalua Middle
-2391502945	Fujieki, Jason	22-23 Stevenson Middle
-2252001657	Garcia, Anthony	22-23 Moanalua Middle
-1071500336	Gomes, Ava	22-23 Aiea Inter
-2081401234	Gomes-Bernades, Nehemiah	22-23 Moanalua Middle
-2271201126	Guess, Rowen	22-23 Moanalua Middle
-2192300539	Henson, McKinlee	22-23 Moanalua Middle
-1361500175	Huang, Mia	22-23 Moanalua Middle
-2252001300	Hutson, Jason	22-23 Moanalua Middle
-3791501146	Jeudy, Arianna	22-23 Moanalua Middle
-1251500269	Kaleiwahea-Dilyard, Xavier	22-23 Moanalua Middle
-2391503175	Koki, Zaylee	22-23 Moanalua Middle
-2001500431	Kumos, Lebron	22-23 Moanalua Middle
-2192200499	Lami, Parrish	22-23 Moanalua Middle
-3271201084	Lee, Darryl	22-23 Moanalua Middle
-2252001459	Lee, Kamille	22-23 Moanalua Middle
-2252100971	Lewandowski, Wyatt	22-23 Moanalua Middle
-2192300604	Link, Tristen	22-23 Moanalua Middle
-2251500028	Luafalemana-Haney, Wilfred	22-23 Kalakaua Middle
-2221500419	Mateo, Jeighde Ann	22-23 Moanalua Middle
-1071400783	Muasau, McDellienne	22-23 Moanalua Middle
-2392104026	Nuusa, Isadorah	22-23 Moanalua Middle
-1291800783	O, Kyung	22-23 Moanalua Middle
-2391205992	Pintor, Rockess	22-23 Moanalua Middle
-2252100583	Pratt, Calyx	22-23 Moanalua Middle
-1471500809	Puaoi-Singletary, Jaylen-Todd	22-23 Moanalua Middle
-2031801673	Robertson, Kenya	22-23 Aliamanu Middle
-2281700396	Robison, Jay	22-23 Moanalua Middle
-2271500026	Romualdo, Eva	22-23 Moanalua Middle
-2391502838	Ruan, Katherine	22-23 Kaimuki Middle
-2391503258	Samonte, Julian Kamealoha	22-23 Moanalua Middle
-2391502903	Shiroma, Taryhn	22-23 Moanalua Middle
-2192300331	Smithbey, Tilman	22-23 Moanalua Middle
-1421500284	Sonish, Manheart	22-23 Aliamanu Middle
-2601300663	Sonoda-Fukumoto, Raiden	22-23 Moanalua Middle
-2391503521	Soris, Forwin	22-23 Moanalua Middle
-2171500200	Tateishi, Conner	22-23 Moanalua Middle
-2801302334	Teixeira, Lesuia	22-23 Moanalua Middle
-2391206148	Venegas, Ronaldo	22-23 Moanalua Middle
-2282001258	Vokac, Abbigail	22-23 Moanalua Middle
-2541501378	Whitfield, Aulaya	22-23 Moanalua Middle
-2252101119	Wright, Taylor	22-23 Moanalua Middle
-2031800881	Xin, Jingrui	22-23 Moanalua Middle
-2192200548	Xin, Qingyue	22-23 Moanalua Middle
-2171500458	Yamaguchi, Ladainian	22-23 Moanalua Middle
-2231801471	Yoder, Faith	22-23 Moanalua Middle
+3061700151	Eskaran, Noah	24-25 Aiea Inter
+2881700021	Moku, Sady	24-25 Aiea Inter
+1121701674	Aake, Jamiena	24-25 Aliamanu Middle
+2252201671	Agliano, Angelo	24-25 Aliamanu Middle
+1471700716	Daoang, Kitana	24-25 Aliamanu Middle
+2042500683	Deita, Francis Dave	24-25 Aliamanu Middle
+2031801011	DePonte, Koamalu	24-25 Aliamanu Middle
+3041900870	Enita, Jolayah	24-25 Aliamanu Middle
+2221700532	Escosio, Neveah Faith	24-25 Aliamanu Middle
+2042500691	Estacio, Amanda Claire	24-25 Aliamanu Middle
+2831902393	Gay, Ja'Nice	24-25 Aliamanu Middle
+2042401111	Haywood, Ava Fontaine	24-25 Aliamanu Middle
+1311700665	He, Junlin	24-25 Aliamanu Middle
+2031700569	Kuwamura, Alohanani	24-25 Aliamanu Middle
+2031700246	Lee, Erin	24-25 Aliamanu Middle
+2031700816	Lemari, Noah	24-25 Aliamanu Middle
+2221805226	Puga-Jucutan, Gregory	24-25 Aliamanu Middle
+2042401244	Robinson-White, Anijah	24-25 Aliamanu Middle
+2282300497	Ruben , Kaylee	24-25 Aliamanu Middle
+2151700367	Salanoa, Xenesa	24-25 Aliamanu Middle
+2032201560	Stokka, Ezekiel	24-25 Aliamanu Middle
+2621700196	Tapaoan, Kingston	24-25 Aliamanu Middle
+2031701236	Torres, Talia	24-25 Aliamanu Middle
+3171600620	Compton, Eli	24-25 Kailua Inter
+2391700038	Cheang, Lok Hei Audrey	24-25 Kaimuki Middle
+3131700011	Lampitelli, Kate	24-25 Kaimuki Middle
+2391700020	Briseno, Alejandro	24-25 Kalakaua Middle
+1171700027	Nguyen, Alyssa	24-25 Kawananakoa Middle
+1201700030	Sombatphibane, Teaghan	24-25 Kawananakoa Middle
+2192500412	Bellu, Ronda	24-25 Moanalua Middle
+2192500321	Bradshaw, Jakobe	24-25 Moanalua Middle
+2192500488	Castro, Kenzie	24-25 Moanalua Middle
+2512001374	Chambers, Jason	24-25 Moanalua Middle
+2751700117	Chorow Ribuca, Chazlen	24-25 Moanalua Middle
+2192400166	Clark, Zain	24-25 Moanalua Middle
+2192500587	Coates, Maiyah	24-25 Moanalua Middle
+2391904202	Cooper, Elijah	24-25 Moanalua Middle
+2282201793	Cutsinger , Eli 	24-25 Moanalua Middle
+2252301448	Diaz, Alberto	24-25 Moanalua Middle
+2192500420	Duemmel, Loki	24-25 Moanalua Middle
+2252300945	Echevarria, William	24-25 Moanalua Middle
+2252300151	Fanene, Maximus	24-25 Moanalua Middle
+2192500503	Ferguson, Michael	24-25 Moanalua Middle
+2282200729	Fitzgerald, Aryah	24-25 Moanalua Middle
+2411700852	Gaison, Angela-Eden	24-25 Moanalua Middle
+2861701279	Glenn, Daniel	24-25 Moanalua Middle
+2171800728	Gonda-Kamoe, Teaka	24-25 Moanalua Middle
+2252301266	Grewell, Jonathan	24-25 Moanalua Middle
+3211400501	Holty, Kailan	24-25 Moanalua Middle
+1231700300	Isaacs, Nykolai	24-25 Moanalua Middle
+2271501272	Jones, Makatea	24-25 Moanalua Middle
+2761601115	Kaua, Jayzen	24-25 Moanalua Middle
+2192500305	Laguana, Jarran	24-25 Moanalua Middle
+2931700371	Leama-Tomomitsu, Titan	24-25 Moanalua Middle
+2252300929	Lehman, Gabriel	24-25 Moanalua Middle
+2391701119	Marinas-Talamoa, Shyston	24-25 Moanalua Middle
+2221401723	Marquez, Ricci Juliana	24-25 Moanalua Middle
+2282201975	Miller, Ayame	24-25 Moanalua Middle
+2252201655	Moreno, Jamilet	24-25 Moanalua Middle
+3001700397	Nakata, Ellianna	24-25 Moanalua Middle
+2252300888	Noakes, Gabrielle	24-25 Moanalua Middle
+2031701385	Odono, Prince Harry	24-25 Moanalua Middle
+1331700663	Olsen Faumui, Xaydesis	24-25 Moanalua Middle
+2331700274	Ortiz, Noah	24-25 Moanalua Middle
+2001700421	Pana-Stowers, Kaleb	24-25 Moanalua Middle
+2601700411	Pegues, Azien	24-25 Moanalua Middle
+2091802253	Pellichet, Michael	24-25 Moanalua Middle
+2192500298	Pimentel, Jameson	24-25 Moanalua Middle
+2042401327	Reilly, Chasity	24-25 Moanalua Middle
+2282300330	Ridgway, Austin	24-25 Moanalua Middle
+2192400207	Rooney, Emma	24-25 Moanalua Middle
+2192400562	Ryu, Ashley	24-25 Moanalua Middle
+2282300752	Santiago, Jeremiah 	24-25 Moanalua Middle
+2172201051	Son, Sumin	24-25 Moanalua Middle
+2282201967	Steele, Danika	24-25 Moanalua Middle
+2331700696	Tavale-Petersen, Giori	24-25 Moanalua Middle
+2171700422	Tom-Dela Cruz, Laakeaokekai	24-25 Moanalua Middle
+1351401018	Tubera, Jacob	24-25 Moanalua Middle
+2192500264	Van Alstyne Simpson, London	24-25 Moanalua Middle
+2282301403	Vinson , Kadin 	24-25 Moanalua Middle
+2192400281	Williams, Stephen	24-25 Moanalua Middle
+2591701529	Cambra, Aliyah	24-25 SEEQS PCS
+2801700540	Oakes, Kianna	24-25 Stevenson Middle
+1371700817	Tao-Joshua, Deylin	24-25 Stevenson Middle
+1011700992	Balcita, Michael	24-25 Washington Middle

@@ -28,33 +28,44 @@ public class Student {
         email = info[1];
         firstName = info[2];
         lastName = info[3];
-        ID = info[4];
-        phoneNumber = info[5];
-        school = info[7];
+        ID = info[1].substring(0,10);  //assumes students are using state email address
+        //phoneNumber = info[5];
+        school = info[5];
         if(gradYear == null) {
-            gradYear = "2027";
+            gradYear = "2029";
         }
-        counselor = info[8];
-        parent = new Parent(info[9], info[10], info[11]);
+        counselor = "UNKNOWN";
+        parent = new Parent(info[6], info[7], info[8]);
         requestList = new ArrayList<Course>();
-        geType = info[12];
+        //geType = info[12];
         activeCredits = 0;
         School.cardProcessed(this);
     }
 
     //Constructor to create Middle School Students
-    public Student(String id, String last, String first) {
+    public Student(String id, String last, String first, String advTeach) {
         ID = id;
         firstName = first;
         lastName = last;
-        school = "UNKNOWN";
-        gradYear = "2027";
+        boolean proj = false;
+        for(ActiveStudent a : MiddleSchool.getMsActiveStudentList()) {
+            if(a.getID().equals(ID)) {
+                school = a.getSchool();
+                proj = true;
+                break;
+            }
+        }
+        if(!proj) {
+            school = "NOT PROJECTED";
+        }
+        //school = " ";
+        gradYear = "2029";
         requestList = new ArrayList<Course>();
         //School.cardProcessed(this);
         submitDate = "DID NOT SUBMIT FORM";
-        email = "NO EMAIL";
+        email = id+"@k12.hi.us";
         phoneNumber = "NO PHONE";
-        counselor = "NONE";
+        counselor = advTeach;
         parent = new Parent("BLANK", "BLANK", "BLANK");
 
     }
@@ -77,11 +88,11 @@ public class Student {
 
     public void updateInfo(String[] info) {
         submitDate = info[0];
-        phoneNumber = info[5];
-        school = info[7];
-        counselor = info[8];
-        parent = new Parent(info[9], info[10], info[11]);
-        geType = info[12];
+        phoneNumber = "NONE";
+        school = info[5];
+        //counselor = info[8];
+        parent = new Parent(info[6], info[7], info[8]);
+        geType = info[10];
         activeCredits = 0;
 
     }

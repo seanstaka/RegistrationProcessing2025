@@ -1,9 +1,7 @@
 import java.util.ArrayList;
 
-import javafx.scene.media.Media;
-
 public class MiddleSchool {
-    private final static int STUDENT_INFO = 12;
+    private final static int STUDENT_INFO = 10;  //Number of slots for student's info before elective choices
     private final static int ID_INDEX = 4;
     private final static int NUM_ELECTIVE_CHOICES = 5;
     private static int numElectivesProcessed = 0;
@@ -94,14 +92,16 @@ public class MiddleSchool {
         numElectivesProcessed++;
 
         String[] results = info.split("\t");
-        String[] studentInfo = new String[STUDENT_INFO + 1];
+        String[] studentInfo = new String[STUDENT_INFO + 1];  //+1 for the ge info at the end
         //System.out.println("RESULTS" + studentInfo.length + " " + results.length);
 
+        //System.out.println("CHECKING STUDENT INFO READ");
         for(int i = 0; i < studentInfo.length; i++) {
+            //System.out.println(results[i]);
             studentInfo[i] = results[i];
         }
-        studentInfo[studentInfo.length-1] = results[17];
-        //System.out.println("TESTING" + results[17]);
+        studentInfo[studentInfo.length-1] = results[16];
+        //System.out.println("TESTING" + results[16] + studentInfo.length);
         Student applicant = findStudent(studentInfo[ID_INDEX]);
         if(applicant == null) {
             //System.out.println("ELECTIVES BUT NO CORE!!!!");
@@ -113,7 +113,8 @@ public class MiddleSchool {
         }
 
         //for(int i = 0; i < studentInfo.length; i++) {  System.out.println(studentInfo[i]);  }
-        String[] electivesInfo  = new String[NUM_ELECTIVE_CHOICES+2];
+        String[] electivesInfo  = new String[NUM_ELECTIVE_CHOICES+2];  // +2 to hold summer plans in first slot
+                                                                        // and geType is last slot
         for(int i = 0; i < electivesInfo.length; i++) {
             electivesInfo[i] = results[STUDENT_INFO + i];
             //System.out.println("CHECK " + i + " " + electivesInfo[i]);
@@ -123,6 +124,7 @@ public class MiddleSchool {
         //System.out.println("APPLICANT" + applicant);
 
         //Add PE and Health as Needed
+        //System.out.println("PECHECK:"+electivesInfo[0]);
         String PE9ans = electivesInfo[0].substring(0,1);
         if(PE9ans.equalsIgnoreCase("\"")) {
             PE9ans = electivesInfo[0].substring(1,2);
