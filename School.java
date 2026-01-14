@@ -203,12 +203,12 @@ public class School {
 
     public static void exportMergeData() {
         MediaFile.setOutputFile("dataForMerge");
-        String[] headers = {"Date","SFirst","Slast","SID","Sphone", "school", "Sgrad","Counselor","Pname","Pemail","Pphone",
+        String[] headers = {"Date","SFirst","Slast","SID", "Team","School", "Sgrad","Couns","Pname","Pemail","Pphone",
                 "EngACCN","EngCourse","EngTeach","Soc1ACCN","Soc1Course","Soc2ACCN","Soc2Course","SocTeach","MathACCN","MathCourse","MathTeach",
                 "SciACCN","SciCourse","SciTeach", "PEACCN","PEName","PETeach","HlthACCN","HlthName","HlthTeach",
                 "E1Code","E1Name","E1Teach","E2Code","E2Name","E2Teach","E3Code","E3Name","E3Teach","E4Code","E4Name","E4Teach",
                 "E5Code","E5Name","E5Teach","E6Code","E6Name","E6Teach","E7Code","E7Name","E7Teach",
-                "GeoEx","Credits","SumSchool","Proj", "needRec"};
+                "GeoEx","Credits","SumSchool","Proj", "needRec", "Notes"};
         for(int i = 0; i < headers.length; i++) {
             MediaFile.writeString(headers[i], false);
         }
@@ -218,9 +218,10 @@ public class School {
             MediaFile.writeString(s.getFirstName(), false);
             MediaFile.writeString(s.getLastName(), false);
             MediaFile.writeString(s.getID(), false);
-            MediaFile.writeString(s.getPhoneNumber(), false);
-            MediaFile.writeString(s.getSchool(), false);
+            MediaFile.writeString(((MSStudent)s).getTeam(), false);
+            MediaFile.writeString(s.getSchool()+"", false);
             MediaFile.writeString(s.getGradYear(), false);
+            //System.out.println(s.getPhoneNumber() + "|"+ s.getCounselor());
             MediaFile.writeString(s.getCounselor(), false);
             Parent p = s.getParent();
             MediaFile.writeString(p.getName(), false);
@@ -263,10 +264,10 @@ public class School {
             MediaFile.writeString(s.getSummerCourse(), false);
             MediaFile.writeString(""+((MSStudent)s).isProjected(), false);
 
-            if(s.getGradYear().equals("2027")) {
+            if(s.getGradYear().equals("2029")) {
                 MediaFile.writeString(""+((MSStudent)s).needRecommendations(), false);
             }
-
+            MediaFile.writeString(""+((MSStudent)s).getNotes(), false);
             MediaFile.writeString("END", true);
         }
         System.out.println("Num Exported to print: " + processedStudents.size());

@@ -49,6 +49,7 @@ public class Course {
         String splitter = " - ";
         boolean found = false;
         int index = combined.indexOf(splitter);
+        //System.out.println("COMBINED:"+combined);
         ACCN = combined.substring(0, index);
         for(CourseMaster c : School.courseList) {
             if(c.getACCN().equalsIgnoreCase(ACCN)) {

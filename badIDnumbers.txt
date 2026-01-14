@@ -1,73 +1,95 @@
-2391502797	LING, RYLEY	2027	Yes - Other
-2901500045	Neyer, Dylann	2027	Yes - World Language
-1231400105	Dela Cruz, Mecaella Estelle	2027	Yes - Orchestra Ensemble
-2411500143	Kobayashi, Cara	2027	Yes - World Language
-2411500135	Kobayashi, Casey	2027	Yes - Orchestra Ensemble
-2231202376	Gonzalez, Gianna	2027	Yes - Other
-2391502846	Toguchi, Kelli	2027	Yes - World Language
-2391503018	Anulao, Naia	2027	Yes - Orchestra
-2601500025	Calimpong, Jenna	2027	Yes - Orchestra
-2221500154	Racadio, Randi	2027	Yes - Orchestra
-3351500059	Furutani, Cami	2027	Yes - Other
-2331500242	Caravalho, Celyne	2027	Yes - Other
-2391502902	Shiroma, Taryhn	2027	No
-2801500691	Na'a, Jonah	2027	Yes - Orchestra
-1522100135	Rosales, Sophia	2027	Yes - World Language
-2331500078	Namba, Katelyn	2027	Yes - Media
-1241500129	Villacortez, Heart Drianda	2027	Yes - World Language
-2871500090	Baclig, Jazmyn	2027	Yes - Orchestra
-2501501207	Dadulla, Benjamin	2027	Yes - Other
-2271500167	ramones, rylie	2027	Yes - World Language
-2221500021	Trujillo, keoki	2027	No
-2431500034	Fukumitsu, Genna	2027	Yes - Media
-1131600080	Tanahara, Landon	2027	Yes - Orchestra
-1011500340	Amaral, Madison	2027	Yes - Media
-1071700558	Balai, Crissa Jane	2027	No
-1431500069	Ishikawa, Kai	2027	Yes - Other
-2221401731	Rodriguez, Autumn	2027	Yes - Orchestra
-1231800200	Barut, Matthew Alan	2027	Yes - Orchestra
-2501500150	ADDURO, EUWEN JACE	2027	Yes - Other
-3231900041	Monden, Kaia	2027	Yes - World Language
-2651301046	Ubando, Jared	2027	Yes - Other
-2151500054	Agena, Shylee	2027	Yes - Orchestra Ensemble
-2831500036	Koide, Aiden	2027	Yes - Orchestra
-3041500030	Kashiwamura, Haley	2027	Yes - World Language
-2401500285	Chen, Arya	2027	Yes - Orchestra
-2391206065	Terrado, Theo Petuel	2027	Yes - Other
-2121800103	Cobb-Tavares, Christina	2027	Yes - World Language
-2671500028	Uemoto, Daron Bret	2027	Yes - Orchestra Ensemble
-2431600067	Simmons, Kaison	2027	Yes - Orchestra
-3151600622	Ganeku, Cameron	2027	Yes - World Language
-2281167200	Paslay, Joshu	2027	Yes - Other
-2251400178	Salimeda, Isabella	2027	No
-2151701183	Niupulusu, Keira	2027	Yes - World Language
-2901500079	Soriano, Aisea	2027	Yes - Orchestra
-2871500529	Buck, Kyrae	2027	Yes - Media
-2571500426	Padello, Ares	2027	No
-1551500510	Navarro, Ethan	2027	Yes - Other
-2941500439	Green, Len	2027	Yes - Orchestra Ensemble
-1551500528	Navarro, Hunter	2027	Yes - Other
-3151500011	Cooper, Sydney	2027	Yes - Media
-3261500257	Ah Nee, Jewel	2027	Yes - Orchestra
-3231500110	Koki, Austin	2027	Yes - World Language
-2881500099	Pettiford, Charis	2027	Yes - Orchestra
-2821500011	Miyasaki, Jasmyn	2027	Yes - Other
-2271500159	Kaneshiro, Kaci	2027	Yes - Media
-2171400178	O'Lena, Bethany	2027	Yes - Orchestra
-1471400107	Valdez, Wylan	2027	Yes - Media
-2691400043	Chagami, Makayla	2027	Yes - Other
-1361500084	Long, Nevan	2027	Yes - Other
-2211701268	Lelevier, Ayden	2027	Yes - World Language
-3351500132	Suehiro, Skyeler	2027	Yes - Orchestra
-1471500544	Miranda, Maria	2027	No
-2611500545	DeFreitas, John-Michael K.	2027	No
-2391603183	Wisuhandi, Awan	2027	Yes - World Language
-2351900030	Lau, Reese	2027	Yes - Orchestra
-3131500295	Shimoda, Eliott	2027	Yes - World Language
-2421500035	Watanabe-Emocling, Kekauhiwak?	2027	Yes - Other
-3231500152	Duarte, Mikayla	2027	Yes - Orchestra
-2271500422	Reyes, Aaliyah	2027	Yes - Media
-2271500109	Kamei, Kevin	2027	Yes - Orchestra
-2332000708	Horikawa, Scott	2027	Yes - Orchestra
-2192300513	Rangel, Alexander	2027	Yes - Orchestra
-2392502862	Agdeppa, Edisen	2027	Yes - World Language
+2681700017	Leano-Chong, Shayley	2029	Orchestra
+2651700036	Kwon, Dylan	2029	Orchestra Ensemble
+2391700781	Andallo, Aiden-Zain	2029	Orchestra
+2801801563	Mansilungan, Logan	2029	Orchestra
+1251700035	Liu, Maile	2029	Media (MeneMac Program)
+2831700042	Leong, Ryder	2029	World Language
+2282300596	Mahoney, Jack	2029	World Language
+1121700147	Chan, Alina	2029	Orchestra
+1131700146	Liberato-Hoopai, Aliyah Cherie	2029	World Language
+2931700024	Kanayama, Marcus	2029	Orchestra
+3131700269	Hanaoka, Jessica	2029	Orchestra
+2601400745	Calimpong, Jenai	2029	World Language
+2251800778	Callender, Eliana	2029	World Language
+1071700061	Beeman, Ethan	2029	Airforce JROTC
+2151700036	Asselstine, Amaya	2029	World Language
+2172200706	Bahaghighat, Aliza	2029	Airforce JROTC
+2171700414	Honda-Domingo, Logan	2029	World Language
+2571700086	Galo, Aaron	2029	Orchestra
+3151400418	Cheung, Jason	2029	Orchestra
+2861700015	Ninomiya, Kalei	2029	Orchestra
+2001700083	Yamada, Jaryn	2029	Orchestra Ensemble
+2391700278	Acido, Aiden Zeth	2029	Airforce JROTC
+2901700093	Chinen, Luke	2029	Media (MeneMac Program)
+2831700092	Saito, Drew	2029	Orchestra Ensemble
+2671700042	Oishi, Keaton	2029	Orchestra
+3351700015	Furutani, Caydie	2029	Media (MeneMac Program)
+3351700338	Kunimura, Shayne	2029	World Language
+1071400832	Soriano, Connor Reece	2029	Orchestra
+3151400707	ONeil, Jack Noah	2029	World Language
+2351800164	Medlock, Olivia	2029	World Language
+1201700022	Domingo, Tricia Sami	2029	World Language
+2831700513	Sugai, Jana-Dee	2029	Orchestra Ensemble
+2172000716	Choi, Charlotte	2029	World Language
+2031700890	Yanagi, Macy Joy	2029	Media (MeneMac Program)
+1291700271	Allen, Amber	2029	World Language
+1201800328	Tanaka, Zhyra-Angelie	2029	World Language
+1311700087	He, Zhiyi	2029	Orchestra
+2901700192	Park, Jadon	2029	Airforce JROTC
+2931700032	Ambrocio, Amber Lily	2029	Orchestra
+2511401869	Ohashi, Cooper	2029	World Language
+1201700139	Generalao, Brielle	2029	World Language
+1121700254	Kim, Yuna	2029	Orchestra
+5451700269	Kalamau, Chazeron	2029	Airforce JROTC
+2571501482	Kalima, Wisdom	2029	Orchestra Ensemble
+2801700110	Lorenzo, Jeriah	2029	Orchestra
+2931700157	Lui, Stephen	2029	Orchestra
+2881700386	Cruz Ameperosa, Isabella	2029	Media (MeneMac Program)
+2192400380	Phillips, TyMarion	2029	
+2881700162	Pettiford, Adelyn	2029	Orchestra Ensemble
+2431700488	Arnold, Alexis	2029	Orchestra Ensemble
+3131700350	Toguchi, Jordan	2029	Orchestra
+2831700076	Lile, Madison	2029	Orchestra
+2282300356	Kim, Ashlyn	2029	Media (MeneMac Program)
+1291700619	Choi, Hailey	2029	Orchestra Ensemble
+2641700102	Putorak, Kai	2029	World Language
+2641700136	Yamanoha, Evan	2029	Orchestra Ensemble
+2331700480	Pugal-Wong, Skyelar	2029	World Language
+3042200552	Lum Kee, Kimi	2029	World Language
+1241401219	Ramos, Kila	2029	Airforce JROTC
+2092301274	Pecson, Troy	2029	Airforce JROTC
+2012400158	Cooper, Dylan	2029	Orchestra
+2431800255	Taira, Kira	2029	Orchestra
+2431800411	Calbero, Xavier	2029	World Language
+3041700385	Fujiwara, Kai	2029	World Language
+2531700105	Fujikawa, Madison	2029	World Language
+1291700057	Takamura, Kai	2029	World Language
+3111700089	Savelio, Teagan	2029	Orchestra
+2331700802	Mansfield, Liliana	2029	Orchestra
+2271700107	Soriano, Shane	2029	Orchestra
+2001700108	Millon, Jeremiah	2029	Orchestra
+2861700065	Kahue-Antone, Rhylyn	2029	Orchestra
+1011700752	Alcantara-Estrella, Jahnel	2029	Media (MeneMac Program)
+3231900033	Monden, Khloe	2029	World Language
+2601700073	Sabas, Cylen Jayce	2029	Orchestra Ensemble
+3231700085	Nailiili, Akepa	2029	Orchestra Ensemble
+1131700063	Yeung-Yang, Zachary	2029	World Language
+2031700105	Espiritu, Danika	2029	World Language
+1241700226	Hom, Yui	2029	Media (MeneMac Program)
+2871800039	Phung, Zuri	2029	Orchestra
+2331700050	Cummings, Winston	2029	World Language
+2901401458	Yamamoto, Emmett	2029	Orchestra
+2901700069	Aquino, Jacob	2029	Orchestra
+1301700286	Tokuno, Tanner	2029	Orchestra Ensemble
+2392300692	Fordham, Dalan	2029	Orchestra
+2221700194	Aboy, Karmarie	2029	World Language
+2901700580	Pontillas, Arnold	2029	Orchestra
+2012500082	Salviejo, Brianna	2029	World Language
+2851700199	Shin, Daniel	2029	Orchestra
+2232201392	Voigt, Gavin	2029	Orchestra Ensemble
+1291700453	Weng, San Lam Ashley	2029	Orchestra
+2741700019	Teppang, Erianne	2029	Orchestra
+2271700032	Kaneshiro, Maximus	2029	Orchestra
+2271700024	Kaneshiro, Paige	2029	Orchestra
+1241700341	Faylogna, Oryen Chance	2029	Orchestra
+2221700011	Lam, Kaysen	2029	Orchestra

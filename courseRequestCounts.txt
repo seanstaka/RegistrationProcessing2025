@@ -1,49 +1,64 @@
 ACCN	Course Name	Num Requests	Num GE Requests	Department	Num Alts	Num GE Alts	Num Culinary Alts
-FMB2000	Band 1	24	16	Art - Music	5	2	1
-FMC1000	Chorus 1	2	0	Art - Music	8	0	0
-FMF1000	Guitar 1	2	0	Art - Music	10	2	0
-FMK1000	Piano 1	3	2	Art - Music	6	1	1
-FML1000	Ukulele 1	6	1	Art - Music	14	1	3
-FMV2000	Orchestra 1	13	24	Art - Music	1	1	0
-FDC1000	Creative Dance 1	6	5	Art - Performing Arts	4	1	1
-FTA1300	Beginning Acting	5	3	Art - Performing Arts	7	3	0
-FVB1000	General Art 1	8	3	Art - Visual Arts	15	6	2
-FVE1000	Sculpture 1	1	1	Art - Visual Arts	4	3	2
-FVK1000	Design 1	3	0	Art - Visual Arts	6	4	0
-FVL1000	Ceramics 1	10	5	Art - Visual Arts	20	13	6
-FVP1000	Photography 1	14	0	Art - Visual Arts	13	11	2
-FVQ1000	Drawing & Painting 1	16	2	Art - Visual Arts	21	3	1
-TCO1000	Found. of Fashion Design	10	1	CTE - ACCP	10	5	0
+FMB2000	Band 1	32	20	Art - Music	9	0	0
+FMC1000	Chorus 1	3	0	Art - Music	5	1	4
+FMF1000	Guitar 1	6	1	Art - Music	8	3	2
+FMK1000	Piano 1	2	2	Art - Music	7	1	0
+FML1000	Ukulele 1	3	0	Art - Music	13	5	3
+FMV2000	Orchestra 1	21	38	Art - Music	3	0	0
+FDC1000	Creative Dance 1	1	2	Art - Performing Arts	2	2	0
+FTA1300	Beginning Acting	15	1	Art - Performing Arts	8	3	1
+FDH1000	Hip Hop Dance 1	4	3	Art - Performing Arts	3	2	0
+FVB1000	General Art 1	13	2	Art - Visual Arts	20	4	2
+FVE1000	Sculpture 1	2	0	Art - Visual Arts	8	0	4
+FVK1000	Design 1	4	0	Art - Visual Arts	11	0	1
+FVL1000	Ceramics 1	19	5	Art - Visual Arts	28	19	1
+FVP1000	Photography 1	21	8	Art - Visual Arts	22	14	4
+FVQ1000	Drawing & Painting 1	17	2	Art - Visual Arts	21	10	3
+TLL100	Foundations of Law and Public Safety	6	1	CTE	10	2	3
+TCO1000	Found. of Fashion Design	10	2	CTE - ACCP	17	6	1
 TCC1000M	Found. of Creative Media (Film)	0	0	CTE - ACCP	0	0	0
-TCC1000N	Found. of Creative Media (Film)	21	22	CTE - ACCP	18	3	1
-TCC1000Q	Found. of Creative Media (Graphics)	11	5	CTE - ACCP	20	16	3
-TBB1000	Found. In Business	19	6	CTE - Business	26	15	5
-TEF1000	Found. in Education	1	0	CTE - Education	2	1	0
-TAE1000	Found. Engineering Tech	25	4	CTE - Engineering	22	12	7
-TTF1000	Found. Auto Main & Lt Repair	24	8	CTE - Engineering	18	4	3
-THF1000	Found. Health Services	18	4	CTE - Health	17	10	2
-TTU1000	Found. of Culinary	40	16	CTE - PHS	59	25	0
-TJA1000	Air Force JROTC 1	21	6	ROTC	7	2	0
-FDK1000	Hawaiian Dance 1	4	1	World Language	5	1	1
-FDP1000	Polynesian Dance 1	8	2	World Language	5	0	0
-WAC1000	Chinese 1	3	0	World Language	6	0	2
-WAJ1000	Japanese 1	32	26	World Language	16	4	3
-WAK1000	Korean 1	15	10	World Language	10	3	0
-WEF1000	French 1	2	3	World Language	4	0	1
-WEG1000	German 1	7	0	World Language	5	1	0
-WES1000	Spanish 1	33	14	World Language	27	7	5
-WPH1000	Hawaiian 1	5	7	World Language	4	3	0
-CHR1100	Modern History of Hawaii	170	74	Social Studies	0	0	0
-CHR1100HNR	Modern History of Hawaii Honors	7	0	Social Studies	0	0	0
-CGU1100	Participation in a Democracy	170	74	Social Studies	0	0	0
-CGU1100HNR	Participation in a Democracy Honors	7	0	Social Studies	0	0	0
-MAX1155	Algebra 1	164	73	Mathematics	0	0	0
-MAX1200	Algebra 2	0	0	Mathematics	0	0	0
-MGX1150	Geometry	13	1	Mathematics	0	0	0
-SPH5603	Physics	171	74	Science	0	0	0
-SPH5603HNR	Physics Honors	6	0	Science	0	0	0
-LCY1010	English Language Arts 1	177	74	Language Arts	0	0	0
-LCY1010HNR	English Language Arts 1 Honors	0	0	Language Arts	0	0	0
-HLE1000	Health: Today & Tomorrow	97	22	HPE	0	0	0
-PEP1005	PE Life Fitness	97	22	HPE	0	0	0
-TCF1000	Found. of Construction	10	1	CTE - Engineering	18	4	3
+TCC1000N	Found. of Creative Media (Film)	22	11	CTE - ACCP	17	6	3
+TCC1000Q	Found. of Creative Media (Graphics)	12	8	CTE - ACCP	20	7	2
+TBB1000	Found. In Business	27	10	CTE - Business	31	20	6
+TAE1000	Found. Engineering Tech	29	14	CTE - Engineering	27	5	4
+TTF1000	Found. Auto Main & Lt Repair	33	11	CTE - Engineering	21	11	4
+TCF1000	Found. of Construction	25	7	CTE - Engineering	26	10	5
+TIF1000	Found. of Comp Systems	20	7	CTE - Engineering	20	8	5
+THF1000	Found. Health Services	14	12	CTE - Health	23	11	4
+TTU1000	Found. of Culinary	58	19	CTE - PHS	57	21	0
+HLE1000	Health: Today & Tomorrow	167	51	HPE	0	0	0
+PEP1005	PE Life Fitness	167	51	HPE	0	0	0
+LCY1010	English Language Arts 1	222	95	Language Arts	0	0	0
+LCY1010HNR	English Language Arts 1 (HNR)	52	27	Language Arts	0	0	0
+LCY1010NT	English Language Arts 1 (NT)	5	3	Language Arts	0	0	0
+LCY1010S	English Language Arts 1 (S)	16	3	Language Arts	0	0	0
+LCY1010J	English Language Arts 1 (EL)	1	0	Language Arts	0	0	0
+MAX1155	Algebra 1	176	74	Mathematics	0	0	0
+MAX1155NT	Algebra 1 (NT)	11	5	Mathematics	0	0	0
+MAX1155S	Algebra 1 (S)	13	2	Mathematics	0	0	0
+MAX1200	Algebra 2	18	3	Mathematics	0	0	0
+MGX1150	Geometry	78	44	Mathematics	0	0	0
+MSW1009	Math Workshop 9	4	0	Mathematics	4	1	0
+TJA1000	Air Force JROTC 1	21	9	ROTC	11	6	2
+SPH5603	Physics	276	122	Science	0	0	0
+SPH5603NT	Physics (NT)	9	4	Science	0	0	0
+SPH5603S	Physics (S)	11	2	Science	0	0	0
+CHR1100	Modern History of Hawaii	221	91	Social Studies	0	0	0
+CHR1100HNR	Modern History of Hawaii (HNR)	53	31	Social Studies	0	0	0
+CHR1100NT	Modern History of Hawaii (NT)	11	3	Social Studies	0	0	0
+CHR1100S	Modern History of Hawaii (S)	10	3	Social Studies	0	0	0
+CHR1100J	Modern History of Hawaii (EL)	1	0	Social Studies	0	0	0
+CGU1100	Participation in a Democracy	221	91	Social Studies	0	0	0
+CGU1100HNR	Participation in a Democracy (HNR)	53	31	Social Studies	0	0	0
+CGU1100NT	Participation in a Democracy (NT)	11	3	Social Studies	0	0	0
+CGU1100S	Participation in a Democracy (S)	10	3	Social Studies	0	0	0
+CGU1100J	Participation in a Democracy (EL)	1	0	Social Studies	0	0	0
+FDK1000	Hawaiian Dance 1	0	2	World Language	4	3	1
+FDP1000	Polynesian Dance 1	5	2	World Language	1	1	1
+WAC1000	Chinese 1	14	7	World Language	7	2	0
+WAJ1000	Japanese 1	35	25	World Language	18	8	2
+WAK1000	Korean 1	13	14	World Language	8	2	1
+WEF1000	French 1	4	7	World Language	4	1	1
+WEG1000	German 1	0	1	World Language	7	2	1
+WES1000	Spanish 1	35	8	World Language	27	9	5
+WPH1000	Hawaiian 1	16	4	World Language	6	4	1

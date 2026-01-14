@@ -5,6 +5,7 @@ FMK1000,Piano 1,1,Year,Art - Music
 FML1000,Ukulele 1,1,2 Sem,Art - Music
 FMV2000,Orchestra 1,1,Year,Art - Music
 FDC1000,Creative Dance 1,1,Year,Art - Performing Arts
+FDH1000,Hip Hop Dance 1,1,Year,Art - Performing Arts
 FTA1300,Beginning Acting,1,Year,Art - Performing Arts
 FVB1000,General Art 1,1,Year,Art - Visual Arts
 FVE1000,Sculpture 1,1,Year,Art - Visual Arts
@@ -12,17 +13,45 @@ FVK1000,Design 1,1,Year,Art - Visual Arts
 FVL1000,Ceramics 1,1,Year,Art - Visual Arts
 FVP1000,Photography 1,1,Year,Art - Visual Arts
 FVQ1000,Drawing & Painting 1,1,Year,Art - Visual Arts
-TCO1000,Found. of Fashion Design,1,Year,CTE - ACCP
+TLL1000,Foundations of Law and Public Safety,1,Year,CTE
 TCC1000M,Found. of Creative Media (Film),1,Year,CTE - ACCP
 TCC1000N,Found. of Creative Media (Film),1,Year,CTE - ACCP
 TCC1000Q,Found. of Creative Media (Graphics),1,Year,CTE - ACCP
+TCO1000,Found. of Fashion Design,1,Year,CTE - ACCP
 TBB1000,Found. In Business,1,Year,CTE - Business
-TEF1000,Found. in Education,1,Year,CTE - Education
 TAE1000,Found. Engineering Tech,1,Year,CTE - Engineering
+TCF1000,Found. of Construction,1,Year,CTE - Engineering
+TIF1000,Found. of Comp Systems,1,Year,CTE - Engineering
 TTF1000,Found. Auto Main & Lt Repair,1,Year,CTE - Engineering
 THF1000,Found. Health Services,1,Year,CTE - Health
 TTU1000,Found. of Culinary,1,Year,CTE - PHS
+HLE1000,Health: Today & Tomorrow,0.5,Sem,HPE
+PEP1005,PE Life Fitness,0.5,Sem,HPE
+LCY1010,English Language Arts 1,1,Year,Language Arts
+LCY1010HNR,English Language Arts 1 (HNR),1,Year,Language Arts
+LCY1010J,English Language Arts 1 (EL),1,Year,Language Arts
+LCY1010NT,English Language Arts 1 (NT),1,Year,Language Arts
+LCY1010S,English Language Arts 1 (S),1,Year,Language Arts
+MAX1155,Algebra 1,1,Year,Mathematics
+MAX1155NT,Algebra 1 (NT),1,Year,Mathematics
+MAX1155S,Algebra 1 (S),1,Year,Mathematics
+MAX1200,Algebra 2,1,Year,Mathematics
+MGX1150,Geometry,1,Year,Mathematics
+MSW1009,Math Workshop 9,1,Year,Mathematics
 TJA1000,Air Force JROTC 1,1,Year,ROTC
+SPH5603,Physics,1,Year,Science
+SPH5603NT,Physics (NT),1,Year,Science
+SPH5603S,Physics (S),1,Year,Science
+CGU1100,Participation in a Democracy,0.5,Sem,Social Studies
+CGU1100HNR,Participation in a Democracy (HNR),0.5,Sem,Social Studies
+CGU1100J,Participation in a Democracy (EL),0.5,Sem,Social Studies
+CGU1100NT,Participation in a Democracy (NT),0.5,Sem,Social Studies
+CGU1100S,Participation in a Democracy (S),0.5,Sem,Social Studies
+CHR1100,Modern History of Hawaii,0.5,Sem,Social Studies
+CHR1100HNR,Modern History of Hawaii (HNR),0.5,Sem,Social Studies
+CHR1100J,Modern History of Hawaii (EL),0.5,Sem,Social Studies
+CHR1100NT,Modern History of Hawaii (NT),0.5,Sem,Social Studies
+CHR1100S,Modern History of Hawaii (S),0.5,Sem,Social Studies
 FDK1000,Hawaiian Dance 1,1,Year,World Language
 FDP1000,Polynesian Dance 1,1,Year,World Language
 WAC1000,Chinese 1,1,Year,World Language
@@ -32,17 +61,3 @@ WEF1000,French 1,1,Year,World Language
 WEG1000,German 1,1,Year,World Language
 WES1000,Spanish 1,1,Year,World Language
 WPH1000,Hawaiian 1,1,Year,World Language
-CHR1100,Modern History of Hawaii,0.5,Sem,Social Studies
-CHR1100HNR,Modern History of Hawaii Honors,0.5,Sem,Social Studies
-CGU1100,Participation in a Democracy,0.5,Sem,Social Studies
-CGU1100HNR,Participation in a Democracy Honors,0.5,Sem,Social Studies
-MAX1155,Algebra 1,1,Year,Mathematics
-MAX1200,Algebra 2,1,Year,Mathematics
-MGX1150,Geometry,1,Year,Mathematics
-SPH5603,Physics,1,Year,Science
-SPH5603HNR,Physics Honors,1,Year,Science
-LCY1010,English Language Arts 1,1,Year,Language Arts
-LCY1010HNR,English Language Arts 1 Honors,1,Year,Language Arts
-HLE1000,Health: Today & Tomorrow,0.5,Sem,HPE
-PEP1005,PE Life Fitness,0.5,Sem,HPE
-TCF1000,Found. of Construction,1,Year,CTE - Engineering

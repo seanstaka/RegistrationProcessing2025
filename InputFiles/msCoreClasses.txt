@@ -1,21 +1,419 @@
-SID	sLast	sFirst	ELA	S.S.	MATH	SCI	school	as of 1/10/2023
-2031500537	Asiata	Kaitlyn		x	Algebra 2	x	Aliamanu Middle School	
-2042200181	Bayse	Robinson V E			?	x	Aliamanu Middle School	
-2501500548	Cayetano	Gabriel S		x	?		Aliamanu Middle School	
-2271500357	Cruz	Ava M		x	Geometry	x	Aliamanu Middle School	
-2361500869	Delfin	Cisco I		x	Geometry		Aliamanu Middle School	
-2391503315	Diehl-Zablan	Tayliana KML		x	Geometry		Aliamanu Middle School	
-2711400479	Finley	Preciouschanel					Aliamanu Middle School	
-128150033	Helgenberger	Annabell Dlesy			Geometry		Aliamanu Middle School	
-2641500526	Helgenberger	Halia					Aliamanu Middle School	
-2031500446	Juan	Micah Aizen Joshua			Geometry		Aliamanu Middle School	
-2031500222	Kimura-Hartzell	Jada					Aliamanu Middle School	
-2031701294	Lemari	David			Geometry		Aliamanu Middle School	
-2031500602	Olsen-Puna	Teniah			Algebra 2	x	Aliamanu Middle School	
-1491801258	Oseguera	Perla			Geometry		Aliamanu Middle School	
-4541701548	Reyes	Trixie		x	Algebra 2	x	Aliamanu Middle School	
-2031801673	Robertson	Kenya					Aliamanu Middle School	
-2391206099	Rose	Jin R					Aliamanu Middle School	
-2221600286	Sastrillas	Ashley Kate N					Aliamanu Middle School	
-1421500284	Sonish	Manheart		x	Geometry		Aliamanu Middle School	
-2031500420	Udani-Flood	Titan			Geometry	x	Aliamanu Middle School	
+Student ID	Student Last Name	Student First Name	Gender	TEAM	Adv. Teacher	Room#	English Language Arts	Social Studies	Math	Science (only N or S)	Support Class / Notes	END
+1121701674	Aake	Jamiena		AMS	Aliamanu	NA			Algebra			END
+2252201671	Agliano	Angelo		AMS	Aliamanu	NA	N	N	N	N	IEP	END
+2032101769	Aldaya	Brielle Margaret		AMS	Aliamanu	NA			Alg II			END
+2031700303	Bonilla	Cyrah Mae		AMS	Aliamanu	NA			Geom			END
+1471700716	Daoang	Kitana		AMS	Aliamanu	NA					GE to RHS	END
+2042500683	Deita	Francis Dave		AMS	Aliamanu	NA	J	J			Newcomers EL	END
+2031801011	DePonte	Koamalu		AMS	Aliamanu	NA			Alg II			END
+3041900870	Enita	Jolayah		AMS	Aliamanu	NA						END
+2221700532	Escosio	Neveah Faith		AMS	Aliamanu	NA						END
+2042500691	Estacio	Amanda Claire		AMS	Aliamanu	NA	H				GE to RHS	END
+2831902393	Gay	Ja'Nice		AMS	Aliamanu	NA					GE to RHS	END
+2031700642	Guillermo	Rajul		AMS	Aliamanu	NA			Alg II			END
+2042401111	Haywood	Ava Fontaine		AMS	Aliamanu	NA						END
+1311700665	He	Junlin		AMS	Aliamanu	NA			Alg II			END
+2031700569	Kuwamura	Alohanani		AMS	Aliamanu	NA			Alg II			END
+2031700246	Lee	Erin		AMS	Aliamanu	NA			Alg II			END
+2031700816	Lemari	Noah		AMS	Aliamanu	NA	H					END
+2651700680	Main	Mia Malia		AMS	Aliamanu	NA		H	Alg II			END
+2392300478	Mangrobang	Jeriel		AMS	Aliamanu	NA					ESOL	END
+2571700614	Mauga-Sofa	Shaila		AMS	Aliamanu	NA	N		S		IEP	END
+2042401054	Palmer	Jalilah		AMS	Aliamanu	NA			Geom			END
+2391701101	Pasion	Ryalyn Rysel		AMS	Aliamanu	NA						END
+2221805226	Puga-Jucutan	Gregory		AMS	Aliamanu	NA	S	N	N	N	IEP	END
+2042401244	Robinson-White	Anijah		AMS	Aliamanu	NA		H	Geom			END
+2282300497	Ruben	Kaylee		AMS	Aliamanu	NA						END
+2151700367	Salanoa	Xenesa		AMS	Aliamanu	NA	H		Geom		GE to RHS	END
+2032201560	Stokka	Ezekiel		AMS	Aliamanu	NA			Alg II			END
+2621700196	Tapaoan	Kingston		AMS	Aliamanu	NA						END
+2031701236	Torres	Talia		AMS	Aliamanu	NA			S		IEP	END
+2261701015	Ingersoll	Melody		AMS	Aliamanu	NA			Geom		Recently updated address in IC	END
+2391700278	Acido	Aiden Zeth	M	8B	"Wolf, Kristen"	E9						END
+2871800138	Adena	Kaden	M	8B	"Howe, Ryan C"	K2			Geom			END
+2871800146	Adena	Kolton	M	8B	"Howe, Ryan C"	K2						END
+1241700010	Agustin	Cheriah Carrie-Ann	F	8B	"Bright, Sylvie"	C5						END
+1451700164	Ah Cheung	Elliana	F	8B	"Plaia, Marisa"	P4-8			Geom			END
+3881700129	Akaka-Lealao	Aiden	M	8A	"Montoya, Lisa"	C6						END
+1011700752	Alcantara-Estrella	Jahnel	M	8B	"David, Kahealani"	D1	N - Inclusion	N - Inclusion	N - Inclusion	N - Inclusion	Up for reevaluation. Placement may change	END
+1291700271	Allen	Amber	F	8B	"Bright, Sylvie"	C5			Geom		Korean 2	END
+2931700032	Ambrocio	Amber Lily	F	8C	"Hopoi, Andrew S"	J2		H - Honors	Geom			END
+2171700224	Amian	Andy	M	8A	"Ureta, Rachel"	B5						END
+2392104315	Amian	Amaya Sophia	F	8C	"Kaneshiro, Anna"	E6		H - Honors	Geom			END
+2391700781	Andallo	Aiden-Zain	M	8C	"Kaneshiro, Anna"	E6		H - Honors				END
+2802201640	Anderson	Aaliyah	F	8A	"Montoya, Lisa"	C6						END
+2351700181	Apuya	Jordan	M	8B	"David, Kahealani"	D1			Geom			END
+2901700069	Aquino	Jacob	M	8A	"Uyehara, Chad"	K1						END
+2171700117	Arakaki	Cade	M	8B	"Choi, Kristi L"	SG	H - Honors	H - Honors	Geom			END
+2391700012	Arakaki	Drew	M	8B	"Bright, Sylvie"	C5	H - Honors	H - Honors	Alg II			END
+2171400491	Arakawa	Zander	M	8B	"Kim, Kimberly"	D10			Geom		GEN ED	END
+2171900511	Armstrong	Kaleb	M	8C	"Nakata, Edward"	D4-8	S - Resource	N - Inclusion	N - Inclusion	N - Inclusion	Transitions to High School (1st Semester) and Library Research (2nd semester).	END
+2431700488	Arnold	Alexis	F	8B	"Howe, Ryan C"	K2						END
+2391700674	Arroyo	Celine	F	8B	"Plaia, Marisa"	P4-8					Korean 2	END
+2151700036	Asselstine	Amaya	F	8B	"Bright, Sylvie"	C5	H - Honors		Geom		Korean 2	END
+2391700707	Asuncion	Jaeven	M	8A	"Oh, Ji Eun"	D3						END
+3061700086	Atamian	Asa	M	8A	"Knece, Natasha"	E1						END
+2192500553	Baek	Jiseung	M	8A	"Oh, Ji Eun"	D3						END
+2172200706	Bahaghighat	Aliza	F	8B	"Wolf, Kristen"	E9			Geom			END
+2171700109	Ballesteros	Marley	F	8B	"Kim, Kimberly"	D10			Geom			END
+2901700663	Baltazar	Mayson	M	8C	"Kaneshiro, Anna"	E6			Geom			END
+2252000526	Baptista	Karolina	F	8C	"Davis, Latasha"	D5						END
+2252100864	Barcelata	Xander	M	8A	"Montoya, Lisa"	C6					moved	END
+2391700971	Barroga	Michael Jhon	M	8C	"Nakata, Edward"	D4-8						END
+2391701169	Basa	Aizeah	M	8A	"Montoya, Lisa"	C6						END
+1201700238	Batalla	Daizen Alexander	M	8A	"Wong, Keith K"	D7						END
+1071700061	Beeman	Ethan	M	8B	"Howe, Ryan C"	K2			Math Workshop			END
+2192500412	Bellu	Ronda	F	8A	"Oh, Ji Eun"	D3						END
+2392003897	Benavente	Aubrey	F	8C	"Rivera, Tiffanie"	C2	H - Honors		Geom			END
+2192400570	Benjaluck	Surada	F	8A	"Oh, Ji Eun"	D3						END
+2192400538	Bigi	Antonino	M	8C	"Rivera, Tiffanie"	C2			Math Workshop			END
+2192400132	Bolton	Benjamin	M	8C	"Higa, Kristie"	B1			Alg II		Math Recommendation pending	END
+2192500537	Booth	Zoey	F	8C	"Rivera, Tiffanie"	C2						END
+2192500321	Bradshaw	Jakobe	M	8A	"Knece, Natasha"	E1						END
+2192500389	Brockie	Alix	M	8A	"Wong, Keith K"	D7			Geom		Math Recommendation pending	END
+2171700240	Bumagat	Reese	F	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom		Korean 2	END
+2192500107	Burnett	Zachary	M	8B	"Plaia, Marisa"	P4-8	H - Honors		Geom			END
+2391700723	Butay	Andrew	M	8A	"Montoya, Lisa"	C6	H - Honors	H - Honors	Alg II			END
+2431800411	Calbero	Xavier	M	8B	"Plaia, Marisa"	P4-8						END
+2601400745	Calimpong	Jenai	F	8C	"Kaneshiro, Anna"	E6	N - Inclusion	N - Inclusion	N - Inclusion	N - Inclusion		END
+2251800778	Callender	Eliana	F	8B	"Plaia, Marisa"	P4-8						END
+2171400920	Carvalho	Christina	F	8B	"David, Kahealani"	D1			Geom			END
+2422001490	Case	Elijah	M	8A	"Knece, Natasha"	E1						END
+2192500488	Castro	Kenzie	F	8C	"Hopoi, Andrew"	J2			Math Workshop			END
+2252301745	Chacon	Milania	F	8A	"Montoya, Lisa"	C6						END
+2512001374	Chambers	Jason	M	8C	"Higa, Kristie"	B1			S - Resource			END
+1121700147	Chan	Alina	F	8C	"Hopoi, Andrew S"	J2						END
+2431700131	Chee	Sophia	F	8A	"Wong, Keith K"	D7						END
+2282200638	Cheeks	Brice	M	8B	"Bright, Sylvie"	C5	H - Honors					END
+2391904012	Chen	Xin	F	8A	"Oh, Ji Eun"	D3						END
+3151400418	Cheung	Jason	M	8A	"Uyehara, Chad"	K1						END
+2192400489	Chin	Woobeen	M	8A	"Oh, Ji Eun"	D3			Geom			END
+2901700093	Chinen	Luke	M	8B	"Kim, Kimberly"	D10						END
+3231400715	Ching	Aidan	M	8B	"Howe, Ryan C"	K2						END
+1291700619	Choi	Hailey	F	8A	"Choi, Kristi L"	SG			Geom			END
+2172000716	Choi	Charlotte	F	8B	"Bright, Sylvie"	C5	H - Honors				Korean 2	END
+1021700248	Chong	Naomi	F	8C	"Davis, Latasha"	D5	H - Honors	H - Honors				END
+2751700117	Chorow Ribuca	Chazlen	F	8A	"Wong, Keith K"	D7						END
+2171700167	Choy	Micah	M	8C	"Choi, Kristi L"	SG			Geom		Math Recommendation pending	END
+2391700046	Chung	Leo	M	8A	"Uyehara, Chad"	K1						END
+2192400166	Clark	Zain	M	8C	"Davis, Latasha"	D5						END
+2192500587	Coates	Maiyah	F	8C	"Nakata, Edward"	D4-8						END
+2172300721	Contreras	Willow	F	8B	"Bright, Sylvie"	C5						END
+2012400158	Cooper	Dylan	M	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+2391904202	Cooper	Elijah	M	8A	"Ureta, Rachel"	B5						END
+2391903981	Crisostomo	Gian	M	8C	"Davis, Latasha"	D5	S - Resource	S - Resource	S - Resource	S - Resource		END
+2192400174	Cruz	Yadiliz	F	8A	"Knece, Natasha"	E1	H - Honors					END
+2881700386	Cruz Ameperosa	Isabella	F	8B	"David, Kahealani"	D1						END
+2331700050	Cummings	Winston	M	8B	"Wolf, Kristen"	E9			Geom			END
+2282201793	Cutsinger	Eli	M	8C	"Higa, Kristie"	B1	N - Inclusion	N - Inclusion	N - Inclusion	N - Inclusion		END
+2171700208	Damas	Lenni	F	8C	"Kaneshiro, Anna"	E6	H - Honors	H - Honors	Geom			END
+3241700109	David-Basug	Vaihere	F	8A	"Montoya, Lisa"	C6						END
+1112102081	Davis	Jacob	M	8C	"Kaneshiro, Anna"	E6			Geom			END
+2192500199	Day	Kaylan	F	8C	"Nakata, Edward"	D4-8		H - Honors				END
+2192500397	Decipulo	Savior	M	8B	"Bright, Sylive"	C5						END
+2391700997	Del Rosario	Riley	F	8B	"Bright, Sylvie"	C5			Geom			END
+2411701743	Di-Mouro	Aria	F	8A	"Uyehara, Chad"	K1						END
+2252301448	Diaz	Alberto	M	8A	"Oh, Ji Eun"	D3						END
+2092300458	Dimacali	Clare	F	8A	"Ureta, Rachel"	B5					Korean 2	END
+1201700460	Ding	Jerry	M	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom		Student requested for larts	END
+1251700613	Ding	Yuheng	M	8A	"Oh, Ji Eun"	D3						END
+1201700022	Domingo	Tricia Sami	F	8A	"Choi, Kristi L"	SG	H - Honors	H - Honors	Geom		Korean 2	END
+2351700090	Dowd	Nahara	F	8B	"Kim, Kimberly"	D10					Korean 2	END
+2192500420	Duemmel	Loki	M	8C	"Rivera, Tiffanie"	C2						END
+2252300945	Echevarria	William	M	8A	"Knece, Natasha"	E1						END
+7897897890	ELL	Student4	J	J	Geometry		ESOL		J - EL Support			END
+2192400231	Elwir	Anas	M	8A	"Oh, Ji Eun"	D3						END
+2172200657	Enfield	Kainoa	M	8C	"Rivera, Tiffanie"	C2						END
+2391700632	Eom	Elijah	M	8C	"Nakata, Edward"	D4-8		H - Honors	Alg II			END
+2031700105	Espiritu	Danika	F	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom		Korean 2	END
+1234567890	Example	Student1		H	Algebra 2				H - Honors			END
+2252300151	Fanene	Maximus	M	8C	"Kaneshiro, Anna"	E6			Geom			END
+1361700058	Fang	Ethan	M	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Alg II			END
+1241700341	Faylogna	Oryen Chance	M	8C	"Kaneshiro, Anna"	E6						END
+2192500503	Ferguson	Michael	M	8C	"Nakata, Edward"	D4-8			Math Workshop			END
+2941700916	Fernandez	Marie	F	8A	"Knece, Natasha"	E1	H - Honors	H - Honors			Korean 2	END
+2821700803	Fernando	Maya	F	8C	"Davis, Latasha"	D5						END
+2192400398	Ferrell	Sariah	F	8A	"Wong, Keith K"	D7	H - Honors	H - Honors				END
+2282200729	Fitzgerald	Aryah	F	8C	"Nakata, Edward"	D4-8	H - Honors	H - Honors	Geom			END
+2391700252	Ford	Jasmine	F	8B	"David, Kahealani"	D1						END
+2392300692	Fordham	Dalan	M	8A	"Montoya, Lisa"	C6						END
+2391500254	Foronda-Ebia	Chayse	M	8B	"Kim, Kimberly"	D10	N - Inclusion	N - Inclusion	N - Inclusion	N - Inclusion		END
+1221700070	Fry	Isabella	F	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom		Math Recommendation pending	END
+2192400017	Fujihara	Easton	M	8B	"Kim, Kimberly"	D10			Geom		Math Recommendation pending	END
+2171700141	Fujikawa	Braylen	M	8A	"Wong, Keith K"	D7						END
+2171700133	Fujikawa	Joshua	M	8B	"Howe, Ryan C"	K2	H - Honors		Geom			END
+2531700105	Fujikawa	Madison	F	8B	"Wolf, Kristen"	E9						END
+3041700385	Fujiwara	Kai	M	8A	"Ureta, Rachel"	B5						END
+3351700015	Furutani	Caydie	F	8B	"Howe, Ryan C"	K2			Geom			END
+2411700852	Gaison	Angela-Eden	F	8B	"Bright, Sylvie"	C5			Math Workshop			END
+2391700963	Galicinao	Anthony Nicholas	M	8B	"Kim, Kimberly"	D10			Math Workshop			END
+2571700086	Galo	Aaron	M	8C	"Rivera, Tiffanie"	C2			Math Workshop			END
+2192400257	Gambrel	Frederick	M	8B	"David, Kahealani"	D1						END
+2252302074	Garcia	Daniel	M	8A	"Uyehara, Chad"	K1						END
+1201700139	Generalao	Brielle	F	8B	"Bright, Sylvie"	C5						END
+2261701742	Gittemeier	Aaron	M	8B	"Bright, Sylvie"	C5						END
+2861701279	Glenn	Daniel	M	8A	"Wong, Keith K"	D7						END
+2252301753	Gomez	Ava	F	8A	"Knece, Natasha"	E1	H - Honors	H - Honors				END
+2171800728	Gonda-Kamoe	Teaka	M	8C	"Hopoi, Andrew S"	J2			Math Workshop			END
+1361700256	Goo	Brenton	M	8B	"David, Kahealani"	D1			Math Workshop			END
+1311600484	Green-Matutino	Kamakoa	M	8B	"Plaia, Marisa"	P4-8					Korean 2	END
+2172200574	Grevious	Kyle	M	8B	"David, Kahealani"	D1						END
+2252301266	Grewell	Jonathan	M	8B	"Plaia, Marisa"	P4-8						END
+2172300622	Gridley	Elizabeth	F	8C	"Kaneshiro, Anna"	E6						END
+2271301505	Guess	Kallin	M	8B	"Kim, Kimberly"	D10	S - Resource	S - Resource	S - Resource	S - Resource		END
+5512500154	Guy	Madilyn	F	8B	"Wolf, Kristen"	E9						END
+2252300846	Hagemann	Davin	M	8C	"Hopoi, Andrew S"	J2			Geom		Math Recommendation pending	END
+2252201176	Ham	Sylas	M	8B	"Plaia, Marisa"	P4-8					Repeat Algebra 1	END
+3131700269	Hanaoka	Jessica	F	8B	"David, Kahealani"	D1		H - Honors				END
+2391701193	Harbison	Holiday	F	8A	"Montoya, Lisa"	C6	H - Honors					END
+2192400033	Harris	April	F	8B	"Kim, Kimberly"	D10	S - Resource	N - Inclusion	N - Inclusion	N - Inclusion		END
+2852100325	Hataishi	Brooklyn	F	8B	"David, Kahealani"	D1						END
+2192400306	He	Shaun	M	8A	"Oh, Ji Eun"	D3			Geom			END
+1311700087	He	Zhiyi	M	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors				END
+1182300119	Heath	Isla	F	8C	"Rivera, Tiffanie"	C2	H - Honors	H - Honors	Alg II		Inquiring about HipHop Dance - It was not listed in the google registration form as a choice	END
+2231800449	Heisler	Summer	F	8B	"Plaia, Marisa"	P4-8						END
+1421700026	Higa	Katelyn	F	8A	"Uyehara, Chad"	K1						END
+2192400182	Hignight	Hayden	F	8C	"Nakata, Edward"	D4-8						END
+1411700043	Hirai	Sky Kiyomi	F	8A	"Montoya, Lisa"	C6	H - Honors	H - Honors	Geom			END
+2351700024	Hiramoto	Tea	F	8B	"Plaia, Marisa"	P4-8			Math Workshop			END
+3211400501	Holty	Kailan	M	8C	"Orsatti, Aaron"	E5	FSC	FSC	FSC	FSC		END
+1241700226	Hom	Yui	F	8C	"Davis, Latasha"	D5		H - Honors	Geom			END
+2171700414	Honda-Domingo	Logan	F	8A	"Uyehara, Chad"	K1	H - Honors				student requested - capable but does minimal work	END
+2171700191	Hongo	Chloe	F	8C	"Kaneshiro, Anna"	E6	H - Honors	H - Honors	Geom			END
+2391700682	Hu	Junxi	M	8B	"Uyehara, Joyce S."	E4	S - Resource	S - Resource	S - Resource	S - Resource	Transitions to High School (1st Semester) and Library Research (2nd semester).	END
+2391700070	Huang	Selina	F	8B	"Howe, Ryan C"	K2	H - Honors	H - Honors	Alg II			END
+2391701135	Hubin-Kaniho	Kukilakilakaelauokalani	M	8B	"Kim, Kimberly"	D10						END
+2192400075	Hunter	Jeremy	M	8C	"Nakata, Edward"	D4-8		H - Honors	Geom			END
+1301700335	Hwangbo	Mireu	M	8A	"Howe, Ryan C"	K2	H - Honors	H - Honors	Alg II			END
+1231231234	IEP	Student3	S	S	S	S	Transition to HS (SPED)		N - Inclusion			END
+2391700286	Ikemori	Alexander	M	8B	"Bright, Sylvie"	C5						END
+3151700085	Inoue	Rylen	M	8C	"Higa, Kristie"	B1		H - Honors	Geom			END
+1231700300	Isaacs	Nykolai	M	8C	"Hopoi, Andrew"	J2						END
+2271700082	Iwanaga	Joshua	M	8B	"Choi, Kristi L"	SG	H - Honors		Geom			END
+1471601492	Jajo	Khama	M	8C	"Kaneshiro, A"	E6	N - Inclusion	N - Inclusion	N - Inclusion	N - Inclusion		END
+2171700084	Jitchaku	Eimi	F	8C	"Kaneshiro, Anna"	E6	H - Honors	H - Honors	Geom			END
+1351900627	Jona	Mcsanheart	M	8A	"Oh, Ji Eun"	D3						END
+2271501272	Jones	Makatea	M	8C	"Orsatti, Aaron"	E5	FSC	FSC	FSC	FSC		END
+2391700062	Justiniano-Salvador	Adrien	M	8B	"David, Kahealani"	D1						END
+2861700164	Justo-Kawakami	Roxine	F	8A	"Knece, Natasha"	E1						END
+2871701088	Kaai	Carys	F	8C	"Rivera, Tiffanie"	C2						END
+2861700065	Kahue-Antone	Rhylyn	F	8A	"Montoya, Lisa"	C6						END
+2221700863	Kailikini	Kiera Mae	F	8B	"David, Kahealani"	D1			Math Workshop			END
+5451700269	Kalamau	Chazeron	M	8B	"Kim, Kimberly"	D10			Math Workshop			END
+2251700109	Kaleiwahea Dilyard	Shalize	F	8A	"Wong, Keith K"	D7	H - Honors	H - Honors	Geom			END
+2571501482	Kalima	Wisdom	F	8B	"Choi, Kristi L"	SG						END
+2931700024	Kanayama	Marcus	M	8C	"Hopoi, Andrew S"	J2		H - Honors	Geom			END
+2271700032	Kaneshiro	Maximus	M	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom		Korean 2	END
+2271700024	Kaneshiro	Paige	F	8B	"David, Kahealani"	D1			Geom			END
+2431700066	Kato	Kolby	M	8A	"Wong, Keith K"	D7			Geom		Korean 2	END
+2761601115	Kaua	Jayzen	M	8C	"Hopoi, Andrew S"	J2						END
+2282300182	Kelley	Lincoln	M	8B	"Kim, Kimberly"	D10			Geom			END
+1112101124	Kennedy	Luke	M	8A	"Ureta, Rachel"	B5						END
+1341700216	Kim	Luna	F	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+1121700254	Kim	Yuna	F	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+2282300356	Kim	Ashlyn	F	8C	"Davis, Latasha"	D5			Geom			END
+2391700088	Kim	Ethan	M	8C	"Davis, Latasha"	D5		H - Honors	Geom			END
+2391700955	Kim	Elise	F	8B	"Howe, Ryan C"	K2	H - Honors	H - Honors	Alg II			END
+2391700161	Kimura	Danni	F	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+2392300618	Kobin	Jenlynn	F	8A	"Knece, Natasha"	E1						END
+2042400402	Korzilius	Kade	M	8B	"Wolf, Kristen"	E9	H - Honors	H - Honors	Geom			END
+3351700338	Kunimura	Shayne	F	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom			END
+2651700036	Kwon	Dylan	F	8B	"Howe, Ryan C"	K2	H - Honors	H - Honors	Geom			END
+2192400512	Ladson	Ricky	M	8C	"Uyehara, Joyce S."	E4	S - Resource	S - Resource	S - Resource	S - Resource	FSC or Resource Math?	END
+2192500305	Laguana	Jarran	M	8B	"Wolf, Kristen"	E9						END
+2171800497	Lai	Madison	F	8B	"Wolf, Kristen"	E9			Geom			END
+2092200277	Lam	Yakira	F	8A	"Montoya, Lisa"	C6					Korean 2	END
+2221700011	Lam	Kaysen	M	8C	"Kaneshiro, Anna"	E6			Geom			END
+4361700980	Lara-Santos	Brizelle	F	8A	"Montoya, Lisa"	C6						END
+2931700371	Leama-Tomomitsu	Titan	M	8C	"Hopoi, Andrew S"	J2						END
+2681700017	Leano-Chong	Shayley	F	8A	"Uyehara, Chad"	K1						END
+3151400690	Lee	Triton	M	8A	"Montoya, Lisa"	C6						END
+3511700081	Lee	Maru	M	8C	"Davis, Latasha"	D5		H - Honors	Geom			END
+2252300929	Lehman	Gabriel	M	8A	"Montoya, Lisa"	C6						END
+2831700042	Leong	Ryder	M	8B	"Bright, Sylvie"	C5			Alg II		Korean 2	END
+2221701225	Leota	Azariah	F	8A	"Oh, Ji Eun"	D3						END
+2221701233	Leota	Ezekial	M	8C	"Hopoi, Andrew"	J2	S - Resource	S - Resource	S - Resource	S - Resource		END
+1291700560	Liang	Xueying	F	8B	"Howe, Ryan C"	K2						END
+1131700146	Liberato-Hoopai	Aliyah Cherie	F	8B	"Wolf, Kristen"	E9					Korean 2	END
+2831700076	Lile	Madison	F	8B	"Kim, Kimberly"	D10			Math Workshop			END
+2431700280	Lim	Yeyul	M	8A	"Oh, Ji Eun"	D3						END
+1361700032	Lin	Zack	M	8B	"Wolf, Kristen"	E9						END
+1081600839	Lindemann	Archer	M	8C	"Higa, Kristie"	B1	S - Resource	N - Inclusion	S - Resource	S - Resource		END
+1231700201	Liu	Ziyang	M	8A	"Knece, Natasha"	E1			Geom		Math Recommendation pending	END
+1251700035	Liu	Maile	F	8B	"Plaia, Marisa"	P4-8			Geom			END
+2801700110	Lorenzo	Jeriah	F	8B	"Wolf, Kristen"	E9	H - Honors	H - Honors	Alg II			END
+2391700939	Lu	Camilla	F	8A	"Oh, Ji Eun"	D3						END
+2261701825	Ludwig	Brayden	M	8A	"Montoya, Lisa"	C6						END
+2151700101	Lui	Austin	M	8C	"Nakata, Edward"	D4-8	H - Honors	H - Honors			Korean 2	END
+2931700157	Lui	Stephen	M	8C	"Higa, Kristie"	B1			Geom			END
+2171400714	Lum	Joshua Andrew	M	8B	"Howe, Ryan C"	K2			Geom			END
+3042200552	Lum Kee	Kimi	F	8B	"Kim, Kimberly"	D10						END
+1241700648	Madamba	Allyza	F	8A	"Wong, Keith K"	D7	H - Honors	H - Honors				END
+2391700830	Magadia	Jennel	F	8A	"Wong, Keith K"	D7						END
+2282300596	Mahoney	Jack	M	8B	"Plaia, Marisa"	P4-8	H - Honors		Geom			END
+2171801007	Makia'okalani	Nevaeh	F	8A	"Knece, Natasha"	E1						END
+2391403001	Makizuru	Kolton	M	8A	"Wong, Keith K"	D7	H - Honors	H - Honors	Geom			END
+2391700103	Mals	Xander Zane	M	8C	"Hopoi, Andrew S"	J2						END
+2391700111	Mals	Xavier Zen	M	8C	"Higa, Kristie"	B1						END
+1451700213	Mamalias	Ron Alexander	M	8C	"Davis, Latasha"	D5						END
+2331700802	Mansfield	Liliana	F	8C	"Rivera, Tiffanie"	C2	H - Honors	H - Honors	Geom			END
+2801801563	Mansilungan	Logan	M	8C	"Davis, Latasha"	D5						END
+1091800133	Mar	Alexa	F	8C	"Rivera, Tiffanie"	C2						END
+2391701119	Marinas-Talamoa	Shyston	M	8B	"David, Kahealani"	D1	S - Resource	S - Resource	N - Inclusion	S - Resource		END
+2221401723	Marquez	Ricci Juliana	F	8C	"Hopoi, Andrew S"	J2						END
+2901801115	Martinez	Esther	F	8C	"Higa, Kristie"	B1						END
+2411701371	Mateo	Bailey	F	8B	"Plaia, Marisa"	P4-8						END
+2391700187	Mawae	Lilynoe	F	8B	"Wolf, Kristen"	E9			Geom			END
+2192500248	McKenzie	Reece	M	8C	"Rivera, Tiffanie"	C2						END
+2391700301	McMoore-Akau	Bailey	M	8B	"Bright, Sylvie"	C5	H - Honors				Korean 2	END
+1412100253	Medina	Mika	F	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors				END
+2351800164	Medlock	Olivia	F	8B	"Kim, Kimberly"	D10						END
+2972300288	Melendez-Siaki	Teihani Lei	F	8B	"Plaia, Marisa"	P4-8						END
+2391700898	Mendoza	Ma. Angela	F	8C	"Howe, Ryan C"	K2		H - Honors				END
+2881700146	Mendoza	Manoah	M	8C	"Davis, Latasha"	D5						END
+1291400927	Miao	Jack	M	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom			END
+2172000211	Midles	Gabriel	M	8C	"Rivera, Tiffanie"	C2		H - Honors	Geom			END
+2282201975	Miller	Ayame	F	8C	"Uyehara, Joyce S."	E4	S - Resource	S - Resource	S - Resource	S - Resource		END
+2192400273	Miller	Kendal	F	8B	"Bright, Sylvie"	C5	H - Honors		Geom			END
+2001700108	Millon	Jeremiah	M	8C	"Kaneshiro, Anna"	E6	S - Resource	S - Resource	N - Inclusion	N - Inclusion		END
+3231900033	Monden	Khloe	F	8C	"Higa, Kristie"	B1		H - Honors				END
+2391700658	Morales	Jillian Angeli	F	8C	"Howe, Ryan C"	K2			Geom			END
+2252201655	Moreno	Jamilet	F	8C	"Higa, Kristie"	B1		H - Honors	Geom			END
+2341600282	Moss	Ajay	M	8A	"Wong, Keith K"	D7						END
+3231700085	Nailiili	Akepa	M	8B	"Wolf, Kristen"	E9						END
+4361700625	Nakamura	Matthew	M	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors				END
+3001700397	Nakata	Ellianna	F	8B	"Howe, Ryan C"	K2						END
+2192400504	Navarro	Jazlyn	F	8A	"Wong, Keith K"	D7						END
+2192500040	Nelson	Arden	M	8B	"Plaia, Marisa"	P4-8						END
+2282101380	Nichols	Velma	F	8C	"Rivera, Tiffanie"	C2					Disenrolled 12/20	END
+2202300487	Nimmons	Elijah	M	8C	"Higa, Kristie"	B1						END
+2252200839	Ninham-Knapp	Brayden	M	8B	"Wolf, Kristen"	E9	H - Honors		Geom		Korean 2	END
+2861700015	Ninomiya	Kalei	M	8C	"Choi, Kristi L"	SG		H - Honors	Geom			END
+2171800611	Nishimura	Eden	F	8C	"Kaneshiro, Anna"	E6	H - Honors	H - Honors	Geom			END
+2252300888	Noakes	Gabrielle	F	8C	"Hopoi, Andrew S"	J2						END
+2501700827	Noble	Brianna Mae	F	8B	"Howe, Ryan C"	K2						END
+2511700123	Numazu	Chayselynn Starr	F	8C	"Higa, Kristie"	B1					Disenrolled 12/20	END
+2071700945	O'Connor	Lily	F	8C	"Davis, Latasha"	D5	H - Honors	H - Honors	Geom			END
+2031701385	Odono	Prince Harry	M	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom		Korean 2	END
+2511401869	Ohashi	Cooper	M	8A	"Montoya, Lisa"	C6	H - Honors	H - Honors			Korean 2	END
+2671700042	Oishi	Keaton	M	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+3141700094	Oka	Dax	M	8A	"Montoya, Lisa"	C6			Geom			END
+2171700125	Oliver	Starla	F	8A	"Knece, Natasha"	E1						END
+1331700663	Olsen Faumui	Xaydesis	F	8A	"Wong, Keith K"	D7						END
+3061800118	Omo	Piper	F	8C	"Nakata, Edward"	D4-8						END
+3151400707	ONeil	Jack Noah	M	8A	"Montoya, Lisa"	C6	H - Honors	H - Honors	Geom			END
+2331700274	Ortiz	Noah	M	8B	"Plaia, Marisa"	P4-8						END
+2251701024	Osurman Pahio	Mahealani	F	8C	"Rivera, Tiffanie"	C2						END
+1281700024	OuYang	Nikki	F	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+2392300551	Pacheco	Maxwell	M	8B	"Bright, Sylvie"	C5						END
+2251800950	Padilla	Victoria	F	8C	"Nakata, Edward"	D4-8			Geom		Math Recommendation pending	END
+2001700421	Pana-Stowers	Kaleb	M	8C	"Higa, Kristie"	B1	S - Resource	N - Inclusion	N - Inclusion	N - Inclusion		END
+1201700296	Pangelina	Kainoa	M	8C	"Higa, Kristie"	B1			Math Workshop			END
+2351700157	Panoke	Kira	F	8C	"Davis, Latasha"	D5						END
+2151800738	Parga	Ella	F	8C	"Davis, Latasha"	D5		H - Honors				END
+2901700192	Park	Jadon	M	8B	"Bright, Sylvie"	C5			Geom		Tentative (Wolf)	END
+2391500535	Park	Justice-Aliiloa	M	8B	"Plaia, Marisa"	P4-8	S - Resource	S - Resource	S - Resource	S - Resource		END
+1231700110	Pascua	Hailey	F	8A	"Uyehara, Chad"	K1						END
+1241700101	Pascua	Johnna	F	8B	"Kim, Kimberly"	D10						END
+2391700773	Pascual	Riana	F	8A	"Wong, Keith K"	D7		H - Honors	Geom		Possible: Math Recommendation pending	END
+2351700636	Patoc	Tehani	F	8B	"Wolf, Kristen"	E9			Math Workshop			END
+2571700432	Paulo	Aria Jade	F	8C	"Hopoi, Andrew S"	J2						END
+2092301274	Pecson	Troy	M	8B	"Kim, Kimberly"	D10			Geom		Korean 2	END
+2601700411	Pegues	Azien	M	8A	"Knece, Natasha"	E1						END
+2091802253	Pellichet	Michael	M	8C	"Davis, Latasha"	D5						END
+2192400108	Penner	Maiya	F	8B	"Wolf, Kristen"	E9					Moved to Oregon	END
+2391701127	Perry	Kaileigh	F	8B	"Kim, Kimberly"	D10						END
+2192500123	Perry	Reagan	F	8B	"David, Kahealani"	D1	H - Honors		Geom			END
+2881700162	Pettiford	Adelyn	F	8B	"David, Kahealani"	D1						END
+2192400380	Phillips	TyMarion	M	8B	"Kim, Kimberly"	D10			Math Workshop			END
+2871800039	Phung	Zuri	F	8C	"Hopoi, Andrew S"	J2						END
+2192500298	Pimentel	Jameson	M	8C	"Nakata, Edward"	D4-8						END
+2901700580	Pontillas	Arnold	M	8B	"Plaia, Marisa"	P4-8						END
+2282301320	Pruse-Borero	Dale	M	8C	"Higa, Kristie"	B1	S - Resource	S - Resource	S - Resource	S - Resource		END
+2331700480	Pugal-Wong	Skyelar	F	8A	"Wong, Keith K"	D7					Korean 2	END
+2641700102	Putorak	Kai	M	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom		Math Recommendation pending	END
+3271600537	Racoma	Ezekiel	M	8B	"Wolf, Kristen"	E9						END
+3151700217	Ramirez	Anela	F	8A	"Ureta, Rachel"	B5	H - Honors	H - Honors	Geom			END
+1241401219	Ramos	Kila	M	8B	"Wolf, Kristen"	E9	S - Resource	S - Resource	S - Resource	S - Resource		END
+1112203004	Regnary	John	M	8C	"Orsatti, Aaron"	E5	S - Resource	S - Resource	S - Resource	S - Resource		END
+2042401327	Reilly	Chasity	F	8B	"Wolf, Kristen"	E9			Geom		Tentative (Wolf)	END
+2282300330	Ridgway	Austin	M	8A	"Knece, Natasha"	E1						END
+2171700159	Rivero	Natalie	F	8C	"Hopoi, Andrew S"	J2			Geom			END
+2252001433	Rodriguez	Roman	M	8B	"Wolf, Kristen"	E9						END
+2192400207	Rooney	Emma	F	8A	"Knece, Natasha"	E1	H - Honors	H - Honors				END
+1241700888	Ruan	Jack	M	8A	"Knece, Natasha"	E1			Geom			END
+2192400520	Rubillos	Nathaniel	M	8B	"David, Kahealani"	D1						END
+2192400562	Ryu	Ashley	F	8A	"Oh, Ji Eun"	D3			Geom			END
+2601700073	Sabas	Cylen Jayce	M	8B	"Choi, Kristi L"	SG		H - Honors	Geom			END
+2831700092	Saito	Drew	M	8B	"Wolf, Kristen"	E9			Geom			END
+2012500082	Salviejo	Brianna	F	8C	"Hopoi, Andrew S"	J2						END
+2192400463	Samuel	Sinnia	F	8A	"Oh, Ji Eun"	D3						END
+2392300452	Sanfilippo	Mia	F	8A	"Uyehara, Chad"	K1						END
+2282300752	Santiago	Jeremiah	M	8B	"Wolf, Kristen"	E9			Geom			END
+2192500272	Santiago Sanchez	Andrea	F	8C	"Kaneshiro, Anna"	E6		H - Honors	Geom			END
+3111700089	Savelio	Teagan	F	8A	"Uyehara, Chad"	K1	H - Honors	H - Honors	Geom			END
+2192400439	Shi	Hongwei	M	8A	"Oh, Ji Eun"	D3			Geom			END
+2851700199	Shin	Daniel	M	8C	"Davis, Latasha"	D5	H - Honors	H - Honors	Geom			END
+2391700260	Sim	Jacob	M	8A	"Uyehara, Chad"	K1			Geom			END
+2252302107	Smith	Adele	F	8A	"Montoya, Lisa"	C6					moved	END
+2271700321	Sniffen	Ryan	M	8B	"David, Kahealani"	D1					Korean 2	END
+2172201051	Son	Sumin	F	8A	"Oh, Ji Eun"	D3						END
+2391402673	Song	Denny	M	8C	"Kaneshiro, Anna"	E6					Korean 2	END
+1071400832	Soriano	Connor Reece	M	8C	"Nakata, Edward"	D4-8						END
+2271700107	Soriano	Shane	M	8C	"Higa, Kristie"	B1	H - Honors	H - Honors	Geom			END
+2192400471	Stanton	Abigail	F	8B	"Plaia, Marisa"	P4-8			Geom			END
+2282201967	Steele	Danika	F	8B	"David, Kahealani"	D1						END
+2192400083	Stimpson	Carter	M	8B	"Bright, Sylvie"	C5			Geom		Moving to Oregon	END
+2192400091	Stimpson	Landon	M	8B	"David, Kahealani"	D1					Moved to Oregon	END
+2831700513	Sugai	Jana-Dee	F	8B	"Howe, Ryan C"	K2		H - Honors	Geom			END
+2871700262	Taboniar	John Zedrick	M	8C	"Davis, Latasha"	D5		H - Honors	Alg II			END
+2431800255	Taira	Kira	F	8C	"Nakata, Edward"	D4-8			Geom			END
+1291700057	Takamura	Kai	M	8C	"Davis, Latasha"	D5	N - Inclusion	N - Inclusion	N - Inclusion	N - Inclusion		END
+2171900298	Takara	Toran	M	8B	"Plaia, Marisa"	P4-8						END
+2271401249	Tanaka	Elijah	M	8A	"Ureta, Rachel"	B5					Korean 2	END
+1201800328	Tanaka	Zhyra-Angelie	F	8B	"Kim, Kimberly"	D10					Korean 2	END
+2171700274	Tanoue	Roxzia	F	8C	"Kaneshiro, Anna"	E6						END
+2331700696	Tavale-Petersen	Giori	F	8A	"Oh, Ji Eun"	D3						END
+2192400611	Taylor	Renee	F	8A	"Montoya, Lisa"	C6						END
+2741700019	Teppang	Erianne	F	8A	"Uyehara, Chad"	K1						END
+2171700406	Thomas	Brody	M	8C	"Hopoi, Andrew S"	J2						END
+3131700350	Toguchi	Jordan	F	8A	"Uyehara, Chad"	K1	H - Honors					END
+1301700286	Tokuno	Tanner	M	8B	"Howe, Ryan C"	K2			Geom			END
+2171700422	Tom-Dela Cruz	Laakeaokekai	M	8B	"Kim, Kimberly"	D10	S - Resource	N - Inclusion	N - Inclusion	N - Inclusion		END
+1351401018	Tubera	Jacob	M	8A	"Knece, Natasha"	E1						END
+2171500664	Uyeda	Ava	F	8C	"Hopoi, Andrew S"	J2	H - Honors	H - Honors	Geom			END
+2391700153	Uyeda	Colten	M	8C	"Rivera, Tiffanie"	C2						END
+2282301601	Vadawala	Haneal	M	8A	"Oh, Ji Eun"	D3						END
+2282301594	Vadawala	Hershil	M	8A	"Oh, Ji Eun"	D3						END
+2192500264	Van Alstyne Simpson	London	F	8A	"Ureta, Rachel"	B5						END
+2192500462	Villanea Ramirez	Genevieve	F	8C	"Nakata, Edward"	D4-8		H - Honors				END
+2502201654	Villanueva-Bajarin	Dwight	M	8A	"Ureta, Rachel"	B5						END
+2281700148	Villerot	Preston	M	8A	"Wong, Keith K"	D7			Geom			END
+2282301403	Vinson	Kadin	M	8C	"Higa, Kristie"	B1						END
+2392003855	Vo	Quoc An	M	8A	"Oh, Ji Eun"	D3						END
+2232201392	Voigt	Gavin	M	8C	"Rivera, Tiffanie"	C2	H - Honors	H - Honors	Geom		Math Recommendation pending	END
+2391700749	Walker	Messiah	M	8A	"Montoya, Lisa"	C6						END
+2362201404	Walker	Amarah	F	8C	"Rivera, Tiffanie"	C2						END
+2232301763	Walker	Donnie	M	8C	"Kaneshiro, Anna"	E6			Math Workshop			END
+2192400116	Wang	Zhi Xuan	M	8A	"Oh, Ji Eun"	D3			Geom			END
+2252301620	Washington	Ryan	M	8A	"Wong, Keith K"	D7	H - Honors	H - Honors	Geom			END
+2391904062	Weissfuss	Alexis	F	8B	"Plaia, Marisa"	P4-8						END
+2192400413	Wellspeak	Abigale	F	8C	"Nakata, Edward"	D4-8			Math Workshop			END
+1291700461	Weng	Karen	F	8A	"Oh, Ji Eun"	D3						END
+1291700453	Weng	San Lam Ashley	F	8C	"Higa, Kristie"	B1		H - Honors				END
+2192400281	Williams	Stephen	M	8A	"Knece, Natasha"	E1						END
+2391700210	Williams	Kayla	F	8C	"Rivera, Tiffanie"	C2		N - Inclusion	N - Inclusion		Re-evaluation at this time. May be rescinded	END
+2192400249	Williams	Alexis	F	8B	"Kim, Kimberly"	D10			Geom			END
+2391700195	Yabut	Mallory Solenn	F	8C	"Nakata, Edward"	D4-8			Geom		Math Recommendation pending	END
+2001700083	Yamada	Jaryn	M	8B	"Howe, Ryan C"	K2						END
+2341501398	Yamagata	Blayze	M	8A	"Wong, Keith K"	D7	H - Honors		Geom		Korean 2	END
+2901401458	Yamamoto	Emmett	M	8C	"Rivera, Tiffanie"	C2						END
+2641700136	Yamanoha	Evan	M	8B	"David, Kahealani"	D1						END
+2391701416	Yamashiro	Rayden	M	8C	"Higa, Kristie"	B1			Math Workshop			END
+2031700890	Yanagi	Macy Joy	F	8A	"Ureta, Rachel"	B5					Korean 2	END
+1131700063	Yeung-Yang	Zachary	M	8B	"Kim, Kimberly"	D10	H - Honors		Geom			END
+1291700552	Zhang	Kelly	F	8A	"Montoya, Lisa"	C6	H - Honors					END
+2641400874	Zheng	Shayden	M	8C	"Nakata, Edward"	D4-8	S - Resource	S - Resource	S - Resource	S - Resource	Transitions to High School (1st Semester) and Library Research (2nd semester).	END
+2391700905	Zheng	Agnes	F	8B	"Howe, Ryan C"	K2	H - Honors	H - Honors	Alg II			END
+1311700152	Zhuang	Rui Xi	F	8A	"Oh, Ji Eun"	D3						END
+2192500074	Zrazhevets	Sofiia	F	8A	"Oh, Ji Eun"	D3			Geom			END
